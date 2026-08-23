@@ -1,0 +1,126 @@
+---
+title: "Schedule"
+subtitle: "73-103 · Fall 2026 · Mon & Wed 10:00–11:15 · CMB 1199"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-location: right
+    body-classes: "schedule-page"
+    code-tools: false
+---
+
+Below is a tentative class schedule. Since class discussions can sometimes run longer or shorter than expected, please view this as a rough schedule. Please review the course website and Canvas for up-to-date information on what topics and materials we will cover for a particular week or class. I reserve the right to adjust the time allocated to each topic to foster understanding of essential topics and meet the course's learning goals; this may mean we cover fewer or more of the topics presented below.
+
+If Canvas and the website disagree on a date, use this schedule and tell me so we can fix Canvas. Weekly articles and the official submission clock still live on Canvas.
+
+## Quick reference
+
+### Homeworks (submit on Canvas, 23:59 Qatar)
+
+| HW | Out | Due |
+|----|-----|-----|
+| HW1 | Wed 26 Aug | **Wed 9 Sep** |
+| HW2 | Wed 23 Sep | **Wed 30 Sep** |
+| HW3 | Wed 21 Oct | **Mon 2 Nov** |
+| HW4 | — | Presentations **Wed 25 Nov** |
+
+### Quizzes (written, ~15 min; drop lowest 1)
+
+| Quiz | Date |
+|------|------|
+| Q1 | **Mon 31 Aug** |
+| Q2 | **Wed 16 Sep** |
+| Q3 | **Wed 21 Oct** |
+| Q4 | **Wed 28 Oct** |
+| Q5 | **Mon 9 Nov** |
+| Q6 | **Mon 16 Nov** |
+
+### Exam and debate
+
+| Item | Date |
+|------|------|
+| **Midterm** | **Wed 7 Oct** (in class; meetings 1–12 as taught — measurement, goods and the classroom simulation, financial markets, IS–LM 1) |
+| Debate presentations | **Wed 25 Nov** |
+| Final exam | Finals week (date TBD) |
+
+### Recitations (Aicha · Thursday · times TBD)
+
+- Thursday 10 September: goods market, Blanchard Ch. 3.
+- Thursday 24 September: financial markets, Blanchard Ch. 4.
+- Thursday 1 October: midterm review
+- Thursday 22 October: IS–LM
+- Thursday 3 December: final review
+
+Time and the room will be posted on Canvas once it is decided.
+
+---
+
+## Meeting-by-meeting
+
+Readings use **CORE *The Economy* 2.0 Macro** where listed, plus **Blanchard 9e** and **Mankiw 9e**. Handouts complement the main readings and do not replace them. Unit notes: [Measurement](notes/01-measurement.qmd) · [Goods](notes/02-goods.qmd) · [Financial](notes/03-financial.qmd) · [IS–LM](notes/04-islm.qmd) · [Labor and Phillips](notes/05-labor-phillips.qmd) · [Growth](notes/06-growth.qmd) · [Open economy](notes/07-open-economy.qmd) · [Debate](notes/08-debate.qmd).
+
+| Day | Date | Topic | Readings | Due |
+|-----|------|-------|----------|-----|
+| Mon | 24 Aug | Introduction and syllabus | Blanchard 9e Ch. 1 (chapter only) | Discussion article (not graded) |
+| Wed | 26 Aug | Measuring GDP | CORE 3.1–3.4; Handout 1 | HW1 out |
+| Mon | 31 Aug | Business Cycle, GDP variants, and limitations, inflation intro | CORE 3.5; Blanchard 10 pp. 201–203; CORE 4.1–4.2 | Quiz 1, Discussion article (Canvas) |
+| Wed | 2 Sep | Measuring the cost of living | CORE 4.2–4.4 | |
+| Mon | 7 Sep | Labor markets | CORE 1.3–1.4; Blanchard Ch 7 pp. 135–140 | Discussion article (Canvas) |
+| Wed | 9 Sep | Short-term equilibrium: goods market | Blanchard Ch 3; [goods dashboard](https://is-model-dashboard.streamlit.app); Handout 2 | HW1 due; sim packet out |
+| Thu | 10 Sep | Recitation — Blanchard Ch 3 | Blanchard Ch 3; Handout 2 | Time TBD |
+| Mon | 14 Sep | No class — campus break | — | — |
+| Wed | 16 Sep | Short-term equilibrium: goods market | Blanchard Ch 3 | Quiz 2, Discussion article (Canvas) |
+| Mon | 21 Sep | Multiplier classroom simulation | Mago (2014) and support materials | Mago (2014) discussion |
+| Wed | 23 Sep | Short-term equilibrium: financial markets | Blanchard Ch 4; Handout 3 | HW2 out |
+| Thu | 24 Sep | Recitation — Financial markets | Blanchard Ch 4; Handout 3 | Time TBD |
+| Mon | 28 Sep | Financial markets: banks and reserves | Blanchard Ch 4; Handout 3 | Discussion article (Canvas) |
+| Wed | 30 Sep | Financial markets: Equilibrium and ZLB | Blanchard Ch 4; Handout 3 | HW2 due |
+| Thu | 1 Oct | Recitation — midterm review | | Time TBD |
+| Mon | 5 Oct | Goods and financial markets together: IS–LM | Blanchard Ch 5 | Discussion article (Canvas) |
+| Wed | 7 Oct | Midterm exam | | Midterm |
+| — | 11–15 Oct | Fall break — no class | — | — |
+| Mon | 19 Oct | IS–LM: LM and the joint diagram | Blanchard Ch 5 | Discussion article (Canvas) |
+| Wed | 21 Oct | IS–LM: fiscal vs monetary policy | Blanchard Ch 5, [dashboard](https://islmdash-upcnxhgk.manus.space) | Quiz 3, HW3 out |
+| Thu | 22 Oct | Recitation — IS–LM | Blanchard 5 | Time TBD |
+| Mon | 26 Oct | IS–LM: policy mix and the GFC | Blanchard Ch 5, [dashboard](https://islmdash-upcnxhgk.manus.space) | Discussion article (Canvas) |
+| Wed | 28 Oct | Labor market, medium run | Blanchard Ch 7 | Quiz 4 |
+| Mon | 2 Nov | Phillips curve | Blanchard 8 | HW3 due, Discussion article (Canvas) |
+| Wed | 4 Nov | Productivity and economic growth | Notes; Mankiw Ch 12 | |
+| Mon | 9 Nov | Productivity and economic growth | Notes; Mankiw Ch 12 | Quiz 5, Discussion article (Canvas) |
+| Wed | 11 Nov | No class — holiday | — | — |
+| Thu | 12 Nov | Community Engagement — no class | — | — |
+| Mon | 16 Nov | Productivity and economic growth (applied / R) | Notes; Handout 4 + R (complement) | Quiz 6, Discussion article (Canvas) |
+| Wed | 18 Nov | Openness in goods and financial markets | Blanchard 17 | |
+| Mon | 23 Nov | Openness in goods and financial markets | Blanchard 18 | Discussion article (Canvas) |
+| Wed | 25 Nov | Debate (HW4) presentations | Guidelines + references debate | Debate |
+| Mon | 30 Nov | Open economy | Blanchard 19 | — |
+| Wed | 2 Dec | Open economy: Qatar / peg | Class notes; Blanchard 19 | Last class |
+| Thu | 3 Dec | Recitation — final exam | Cumulative | Time TBD |
+| TBD | Finals week | Final exam | — | |
+
+**Important University-related dates**
+
+Thursday 1 October: Course drop deadline. After this date, withdrawing from the course results in a W.
+
+Thursday 5 November: Course withdrawal and pass/no-pass deadline. After this date, students may not withdraw or convert the grade to pass/no-pass.
+
+---
+
+## Campus dates (for context)
+
+From the [CMU-Q 2026–2027 academic calendar](https://www.qatar.cmu.edu/wp-content/uploads/2025/05/cmuq-2026-2027-academic-calendar-16mar2025-2.pdf).
+
+| Event | Date |
+|-------|------|
+| Semester classes begin | Sun 23 Aug 2026 |
+| Add / drop (tuition adj.) | Thu 3 Sep 2026 |
+| Break | Sun 13 – Mon 14 Sep 2026 |
+| Semester drop deadline (W after) | Thu 1 Oct 2026 |
+| Fall break | Sun 11 – Thu 15 Oct 2026 |
+| Mid-semester grades due | Mon 19 Oct 2026 |
+| Withdrawal / pass-no-pass deadline | Thu 5 Nov 2026 |
+| Break | Wed 11 Nov 2026 |
+| Community engagement day | Thu 12 Nov 2026 |
+| Last day of classes | Thu 3 Dec 2026 |
+| Finals | 6–7 and 9–10 Dec 2026 |

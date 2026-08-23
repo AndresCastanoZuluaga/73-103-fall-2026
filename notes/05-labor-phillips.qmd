@@ -1,0 +1,20 @@
+---
+title: "Labor and Phillips"
+subtitle: "28 Oct and 2 Nov"
+format:
+  html:
+    toc: true
+    body-classes: "mlba-page"
+    code-tools: false
+---
+
+Medium run after IS–LM: continue Blanchard 7, then Blanchard 8 (Phillips).
+
+| Date | Topic | Readings / due |
+|------|-------|----------------|
+| **Wed 28 Oct** | Labor market, medium run | Blanchard Ch. 7 (continue after pp. 135–140 from 7 Sep). **Quiz 4** |
+| **Mon 2 Nov** | Phillips curve | Blanchard Ch. 8. **[HW3](../homework/hw3.qmd) due** |
+
+You do not need CORE 1.5–1.8 or Blanchard 9 as required.
+
+Next: [Growth](06-growth.qmd). Calendar: [Schedule](../schedule.qmd).

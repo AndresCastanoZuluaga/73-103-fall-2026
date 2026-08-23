@@ -1,0 +1,283 @@
+---
+title: "73-103 · Principles of Macroeconomics"
+subtitle: "Fall 2026 · Carnegie Mellon University in Qatar"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-location: right
+    body-classes: "mlba-page"
+    code-tools: false
+---
+
+::: {.identity-card}
+<p class="id-name"><strong>Professor:</strong> Andrés Castaño Zuluaga</p>
+<p><strong>Email:</strong> <a href="mailto:acastano@andrew.cmu.edu">acastano@andrew.cmu.edu</a></p>
+<p><strong>Office:</strong> 2160</p>
+<p id="office-hours"><strong>Office hours:</strong> Tuesdays 3:30–5 pm, Location: Office 2160. Please book your time using <a href="https://calendar.app.google/N5MtzozCDChhn4pb6">this link</a>. I will also be available outside of office hours. If you see my office door open and want to stop by to ask about the class content or say hello, you are more than welcome to do so. You can also schedule a time outside of office hours by email. Please email me with reasonable notice.</p>
+<p><strong>Teaching Assistant (TA):</strong> Aicha Malouche</p>
+<p><strong>Email:</strong> <a href="mailto:amalouch@andrew.cmu.edu">amalouch@andrew.cmu.edu</a></p>
+<p><strong>Office hours:</strong> TBD. Location: TBD. Feel free to contact your TA with any questions about the course. The TA will lead the recitation sessions and help with homework and quizzes. More information about recitation sessions below.</p>
+<p><strong>Course Assistant (CA):</strong> Cristiano Paolo Pettarin</p>
+<p><strong>Email:</strong> <a href="mailto:cpettari@andrew.cmu.edu">cpettari@andrew.cmu.edu</a>. The CA will also provide academic support beyond what the TA can do. The CA will track your attendance and participation for every class.</p>
+<p><strong>Course Web Page:</strong> Course website and Canvas. The website has the syllabus, the schedule, notes, and related materials. Canvas includes submissions, grades, weekly articles, discussions, announcements, and official due times. If Canvas and the website disagree on a date, use the website <a href="schedule.qmd">schedule</a> and tell me so we can fix Canvas.</p>
+<p><strong>Course Meetings:</strong> Mondays and Wednesdays, 10:00–11:15. Classroom: CMB 1199.</p>
+:::
+
+## Course description
+
+Macroeconomics seeks to understand why some countries are rich and others poor; why some countries have high rates of inflation while others maintain stable prices; why countries experience phases of (sometimes rapid) expansion and subsequent (sometimes sharp) contraction; and how fiscal and monetary policy can reduce the frequency and severity of these episodes.
+
+In this introductory class to macroeconomics, we will only begin to address these questions so that you, as a business major, have the ground for understanding how macroeconomics can help you to make business decisions. The course will also introduce more advanced and recent topics that can help you understand the determinants of long-term economic growth, such as AI and its potential effect on jobs and productivity, and the implications of digital currencies (stablecoins) for monetary policy and financial markets, while also discussing recent developments with significant potential to influence short-term economic growth, such as tariffs.
+
+While the topics covered in this course may appear distinct from those in an introductory economics class, macroeconomics fundamentally builds upon microeconomic principles. Throughout the course, you will frequently encounter concepts like demand and supply diagrams, elasticities, and microeconomic reasoning and intuition, especially as we progress beyond the measurement section of the course. These tools will serve as a foundation for understanding macroeconomic phenomena in greater depth once we start the chapters on short-term macroeconomic fluctuations and their causes.
+
+## Learning objectives
+
+At the end of the course, students should be able to:
+
+- Understand the basics of macroeconomic measurement.
+- Calculate macroeconomic aggregates like GDP, CPI, and GDP deflator, interpret movements in these variables and their implications for businesses, as well as their limitations.
+- Analyze and explain patterns of unemployment and employment over time and across countries.
+- Elaborate on the economic function of banks and the government in regulating banks.
+- Describe the history, mission, and functions of the Federal Reserve Bank (Fed) and similar monetary authorities worldwide.
+- Understand the essential sources of inflation and the policy options available to monetary authorities to contain inflation.
+- Explain the causes of economic fluctuations and the role of policy in stabilizing these fluctuations.
+- Understand how equilibrium in goods and financial markets is achieved, the relevance of fiscal and monetary policy in the process, and the implications for governments, consumers, and businesses.
+- Use production functions to make sense of patterns of economic development and growth.
+- Understand recent developments that may shape the future of macroeconomics, such as AI and its impact on jobs and productivity, and digital currencies and stablecoins and their implications for financial markets and monetary policy.
+
+## Course Materials
+
+For this class, we will combine three (3) textbooks (references below) with slides, handouts, practice questions, links to videos, and any other material the professor deems relevant. A digital version of the books will be accessible through Canvas. Additional material required for reading will be shared through Canvas and also available on the course website. In the spirit of fostering engagement during class, I will only share slides and/or course notes after class. I will let you know when we use material different from the textbooks below and provide detailed references if so. All additional readings will be available through Canvas. Handouts for selected topics will be provided to improve understanding; they complement the main readings and do not replace them.
+
+- Mankiw, N. G. (2020). *Principles of Macroeconomics* (9th ed.). Cengage.
+- Blanchard, O. (2024). *Macroeconomics* (9th ed.). Pearson.
+
+We will also use selected sections of the following free book:
+
+- The CORE Econ Team, The Economy 2.0: Macroeconomics (free online [here](https://books.core-econ.org/the-economy/macroeconomics/0-3-contents.html), just make sure you create an account). We will use the book for the measurement part of the course: sections 1.3–1.4, 3.1–3.5, and 4.1–4.4. Links are on the unit notes on the course website.
+
+Some problem sets will use R. I will provide a starter file in those cases.
+
+## Delivery of Lectures
+
+Our lectures will be the in-person expectation. The lectures will not be recorded. We will use the first 5–10 minutes of class to discuss the Canvas article for the week, then continue with the lecture on that week's topics.
+
+## Class Attendance
+
+Being on time for each class is expected. Students must arrive on time to class to be allowed to enter the classroom; being late means arriving after 10:00. Arriving at 10:01 is considered a late arrival. Attendance and participation are part of the final grade, so plan on attending every class (more details on the evaluation components below). If you foresee needing to miss a class for any excusable reason, please notify me immediately. If you miss a class because you were ill (take care of yourself!), please notify me and your designated CA, and send the medical excuse to Amie Rollins so her office can forward it to me. The CA will track your attendance and participation for every class.
+
+Important note about leaving the room during a class session: If you need to leave the room during class, do so without disrupting the class flow and return within a reasonable time (less than 5 minutes). Prolonged absences during class time will also affect your attendance and participation grades.
+
+## Absence Policy
+
+If absenteeism (with or without excuse) has reached seven (7) classes, you will not be eligible to take the final exam. It is your responsibility to keep track of your absences, and the Instructor or Course Assistants are not required to inform you when you reach seven absences.
+
+## Assessments
+
+The final cumulative score for this class is computed using the categories below.
+
+| Category | Weight | Details |
+|----------|--------|---------|
+| **Midterm exam** | **25%** | Wednesday 7 October, during class time, 75 minutes. Meetings 1–12 as taught (measurement, goods and the classroom simulation, financial markets, IS–LM 1). The exam is closed notes and only a calculator is allowed. |
+| **Final exam** | **30%** | Date TBD. Final exam is cumulative. |
+| **Homework** | **15%** | Four problem sets. The last problem set is a debate (HW4). See the Assessment Descriptions for more details. |
+| **Quizzes** | **20%** | There will be 6 of them, with the lowest score dropped. Written, in class, about 15 minutes long. |
+| **Attendance, participation, and discussion of articles and videos on Canvas** | **10%** | For most weeks, at the end of each week (Wednesday), I will share through Canvas a set of articles or videos and one or two discussion questions. Answers are due Saturday 11:59 pm Qatar. During the first class of the following week, we will discuss your answers in the first 10 minutes of class. |
+
+## Assessment Descriptions
+
+**The midterm** will be in person during class time. The exams will be 75 minutes long. No electronic devices other than a calculator are allowed. You should bring your own calculator. Any attempt to communicate with people other than the instructor and CAs will be considered a violation of the school's academic integrity policy, and strong action may be taken against you; please refer to the section on Academic Integrity below.
+
+If you are ever wondering, "Will this be on the exam?" please ask. But the answer will likely be a "Yes!" The better question is how this might appear on the exam. In general, the exam questions will be focused on both the theoretical and analytical aspects of the class. You can find more details about the type of questions and the intention behind them on Canvas.
+
+**The final Exam** will be in person during the Final Exam Week and will last between 2 and 3 hours. No electronic devices other than a calculator are allowed. You should bring your own calculator. I reserve the right to change the conditions for the midterm and final exams to promote learning and meet the objectives of the class.
+
+**Exams** test more in-depth knowledge and require applying concepts learned to new settings. They are not meant to surprise students with unexpected questions; any student who consistently works on homework, attends lectures and recitations, and carefully reads the slides, notes, or textbook should do well.
+
+**Homework assignments** will consist of problem sets and be submitted through Canvas or in person at the professor's office at the specified deadline. They will be posted 5-7 days before their due dates. You can consult and work with classmates on your assignment, but we expect your work to be your own. Some problem sets may be structured for group work. Details about whether the assignment is to work in groups or individually will be presented on Canvas and clearly described in the assignment. When a problem set uses data, you will also submit an .R file from the starter code I provide. Finally, HWs are a great way to get familiar with the type of questions you may face during exams, so I would highly encourage you to take them seriously, as this will help you be better prepared for the exams.
+
+**The debate** topic will be announced on Canvas, and guidelines will be provided.
+
+**Quizzes.** There will be 6 written in-class quizzes, designed for about 15 minutes, with the lowest score dropped.
+
+**Attendance and participation** are part of the grading and will be combined. Please come to each class ready to participate in discussions of the material or bring questions that could benefit the rest of the group. Part of the training in this course and the BA program, in general, is to develop students' capacity to engage in the discussion of economic news and analysis and to engage in discourse on topics where there may be a difference in opinion among economists and practitioners. By mid-semester, I will share your participation and attendance grades, so you have time to adjust appropriately during the second part of the semester.
+
+Also, your answers to discussion questions on Canvas count toward participation. At the end of each week (Wednesdays), I will share a set of macroeconomic-related articles or videos on Canvas relevant to the topic we will discuss next week, and I will post one or two discussion questions for you to answer. **The deadline to submit your answers is Saturdays at 11:59 pm. Answers should be 100–200 words.**
+
+We will discuss your answers to those resources at the beginning of each class (5–10 minutes). Answering the discussion questions on time will not only contribute to your participation grades but also help you prepare for quizzes, as some of them could be based on those resources.
+
+How will attendance and participation be graded? If you have various excused or unexcused absences, that counts toward limited participation because you need to be in the classroom to participate. Similarly, if you attend all the classes but rarely participate during class, don't expect your grade to be solely based on attendance. Finally, if you arrive to class early, but leave the classroom for long periods, don't expect your grade to be based on arriving on time. I acknowledge that grading participation could be subjective. Still, I will do my best to evaluate students not only on the quantity but also on the quality of their participation.
+
+## Final grades
+
+Final grades will be based on your cumulative score. Students with a final cumulative score of 90-100% will receive an A. Students with a final cumulative score of 80-89% will receive a B. Students with a final cumulative score of 70-79% will receive a C. Students who obtain a final cumulative score of 60-69% will receive a D; the rest will receive Rs.
+
+A quick note on calculating your cumulative score: Please use the grade distribution above to calculate your final grade. Canvas is not always reliable when computing final grades after dropping the lowest grades.
+
+In the interests of fairness, we apply the same rules to everyone. Therefore, we cannot modify the cumulative score formula or offer extra work to raise your grade to accommodate your circumstances. The only exception is for midterms missed due to documented illness or a family emergency. Some students will inevitably fall close to, but below, a cutoff when we assign grades. Such students sometimes ask for cutoffs to be reduced. Please do not do this. If you are just below a cutoff, you may be close to the lowest A or B but still some way from the average A or B, and we consider these when assigning cutoffs.
+
+## Recitation sessions
+
+We will have recitation sessions with two goals in mind:
+
+- Add value to the lectures by focusing on case studies and applications that support overall understanding of the class content.
+- Provide an avenue to engage with the type of questions and problems (when it comes to structure) you may face in the exam, so that it can give you an idea of the type of questions asked and how to solve them.
+
+The TA will lead the recitation session, with the CA providing support. The professor will select the content and questions to maximize their impact and relevance. Attendance at the recitation sessions is voluntary. The idea of the recitation session is to add value to the class. However, if the attendance is too low, I may end up canceling those sessions. So, if you attend recitations and find them valuable, please share that with your peers so attendance stays at a level sustainable for the effort required to organize them.
+
+Recitations are on Thursdays. Time and the room will be posted on Canvas once it is decided:
+
+- Thursday 10 September: goods market, Blanchard Ch. 3.
+- Thursday 24 September: financial markets, Blanchard Ch. 4.
+- Thursday 1 October: midterm review
+- Thursday 22 October: IS–LM
+- Thursday 3 December: final review
+
+## Guidelines for Late or Missed Work
+
+We do not accept late submissions for quizzes or homework. There are two reasons for this. First, we will post or discuss solutions within 3-5 days after the deadline. Grades will be available within 5-10 days after submission. Second, to be fair to everyone, we want to give all students the same amount of time to complete the work (and it is impossible for us to verify whether work was done late or just turned in late).
+
+There is no make-up opportunity for missed quizzes. If issues prevent you from submitting the quiz during the designated time window, the lowest quiz grade will be dropped.
+
+There is no make-up opportunity for missed midterms. Therefore, if you miss the midterm for any reason (excused or unexcused), its weight will be shifted to the final exam. If you miss the midterm, the final exam will be worth 55% of the overall course grade. The final exam will be on the day designated by the university. There will be a makeup for the final exam on the designated makeup day provided by the university.
+
+## Course Schedule
+
+Below is a tentative class schedule. Since class discussions can sometimes run longer or shorter than expected, please view this as a rough schedule. Please review the course website and Canvas for up-to-date information on what topics and materials we will cover for a particular week or class. I reserve the right to adjust the time allocated to each topic to foster understanding of essential topics and meet the course's learning goals; this may mean we cover fewer or more of the topics presented below.
+
+| Day | Date | Topic | Readings | Due |
+|-----|------|-------|----------|-----|
+| Mon | 24 Aug | Introduction and syllabus | Blanchard 9e Ch. 1 (chapter only) | Discussion article (not graded) |
+| Wed | 26 Aug | Measuring GDP | CORE 3.1–3.4; Handout 1 | HW1 out |
+| Mon | 31 Aug | Business Cycle, GDP variants, and limitations, inflation intro | CORE 3.5; Blanchard 10 pp. 201–203; CORE 4.1–4.2 | Quiz 1, Discussion article (Canvas) |
+| Wed | 2 Sep | Measuring the cost of living | CORE 4.2–4.4 | |
+| Mon | 7 Sep | Labor markets | CORE 1.3–1.4; Blanchard Ch 7 pp. 135–140 | Discussion article (Canvas) |
+| Wed | 9 Sep | Short-term equilibrium: goods market | Blanchard Ch 3; goods dashboard; Handout 2 | HW1 due; sim packet out |
+| Thu | 10 Sep | Recitation — Blanchard Ch 3 | Blanchard Ch 3; Handout 2 | Time TBD |
+| Mon | 14 Sep | No class — campus break | — | — |
+| Wed | 16 Sep | Short-term equilibrium: goods market | Blanchard Ch 3 | Quiz 2, Discussion article (Canvas) |
+| Mon | 21 Sep | Multiplier classroom simulation | Mago (2014) and support materials | Mago (2014) discussion |
+| Wed | 23 Sep | Short-term equilibrium: financial markets | Blanchard Ch 4; Handout 3 | HW2 out |
+| Thu | 24 Sep | Recitation — Financial markets | Blanchard Ch 4; Handout 3 | Time TBD |
+| Mon | 28 Sep | Financial markets: banks and reserves | Blanchard Ch 4; Handout 3 | Discussion article (Canvas) |
+| Wed | 30 Sep | Financial markets: Equilibrium and ZLB | Blanchard Ch 4; Handout 3 | HW2 due |
+| Thu | 1 Oct | Recitation — midterm review | | Time TBD |
+| Mon | 5 Oct | Goods and financial markets together: IS–LM | Blanchard Ch 5 | Discussion article (Canvas) |
+| Wed | 7 Oct | Midterm exam | | Midterm |
+| — | 11–15 Oct | Fall break — no class | — | — |
+| Mon | 19 Oct | IS–LM: LM and the joint diagram | Blanchard Ch 5 | Discussion article (Canvas) |
+| Wed | 21 Oct | IS–LM: fiscal vs monetary policy | Blanchard Ch 5, dashboard | Quiz 3, HW3 out |
+| Thu | 22 Oct | Recitation — IS–LM | Blanchard 5 | Time TBD |
+| Mon | 26 Oct | IS–LM: policy mix and the GFC | Blanchard Ch 5, dashboard | Discussion article (Canvas) |
+| Wed | 28 Oct | Labor market, medium run | Blanchard Ch 7 | Quiz 4 |
+| Mon | 2 Nov | Phillips curve | Blanchard 8 | HW3 due, Discussion article (Canvas) |
+| Wed | 4 Nov | Productivity and economic growth | Notes; Mankiw Ch 12 | |
+| Mon | 9 Nov | Productivity and economic growth | Notes; Mankiw Ch 12 | Quiz 5, Discussion article (Canvas) |
+| Wed | 11 Nov | No class — holiday | — | — |
+| Thu | 12 Nov | Community Engagement — no class | — | — |
+| Mon | 16 Nov | Productivity and economic growth (applied / R) | Notes; Handout 4 + R (complement) | Quiz 6, Discussion article (Canvas) |
+| Wed | 18 Nov | Openness in goods and financial markets | Blanchard 17 | |
+| Mon | 23 Nov | Openness in goods and financial markets | Blanchard 18 | Discussion article (Canvas) |
+| Wed | 25 Nov | Debate (HW4) presentations | Guidelines + references debate | Debate |
+| Mon | 30 Nov | Open economy | Blanchard 19 | — |
+| Wed | 2 Dec | Open economy: Qatar / peg | Class notes; Blanchard 19 | Last class |
+| Thu | 3 Dec | Recitation — final exam | Cumulative | Time TBD |
+| TBD | Finals week | Final exam | — | |
+
+**Important University-related dates**
+
+Thursday 1 October: Course drop deadline. After this date, withdrawing from the course results in a W.
+
+Thursday 5 November: Course withdrawal and pass/no-pass deadline. After this date, students may not withdraw or convert the grade to pass/no-pass.
+
+## Student Recording Policy
+
+No student may record or take a picture of any classroom activity without written consent from the course instructor. If you have (or think you may have) a disability such that you need to record or tape classroom activities, you should contact the Office of Disability Resources to request an appropriate accommodation.
+
+## QBA Classroom Conduct — Fall 2026
+
+The Qatar Business Administration Program maintains high expectations for student classroom conduct. Your professors will hold you to these standards. We believe these standards create an environment most conducive to learning. This behavior also reflects common business culture. As CMU Qatar Business Administration students, part of your business education is to model the behavior that you will demonstrate in the workplace.
+
+**QBA students attend all scheduled classes.** Unless the professor explicitly states that other ways of completing the work are acceptable, you must attend all scheduled classes. If you are unable to attend class, you are expected to contact the faculty member in advance. If you miss class, contact your professor as soon as possible. It is your responsibility—not the professor's—to ensure that any assignments, handouts, notes, etc., are obtained before the next scheduled class.
+
+**QBA students attend class on time.** In common business culture, punctuality is essential to showing respect for your colleagues and business partners. Showing up late for a meeting tells others involved that you do not value their time. QBA students will demonstrate respect for their courses, classmates, and professors by arriving for class early enough to get settled and prepared before the scheduled meeting time. The consequences of tardiness, absence from class, or late work are at the professor's discretion and may affect grades. Specific policies can most often be found in your syllabus. To avoid disruption, professors reserve the right to deny late students' admission to the classroom. Faculty members are expected to be alert to absenteeism that is detrimental to a student's performance and to bring such cases to the attention of program administration.
+
+**QBA students remain in class once it has begun.** Just as arriving late for a class, meeting, or presentation disrupts, so, too, does leaving in the middle. Professors, managers, and speakers may take it as a sign of disrespect or disinterest. You know your class schedules well in advance, so be sure to set your priorities in a way that reflects your responsibility to your educational goals. The class day provides many opportunities for breaks; you should rarely require one in the middle of a class session. In some specific instances, by your professor's policy, you may not be allowed to reenter the room if you leave for exams and quizzes, for example.
+
+**QBA students come to class prepared.** Your professors will expect you to arrive in class prepared for that day's work. You will be expected to have completed the readings, case preparations, and other assignments prior to each class session. A Tepper business education is not a passive process; to get the most from your education, you must actively engage the process at every turn. You will have many opportunities to participate in your classes in a variety of ways, and if you have not done the work, you will have little to offer. In some cases, final grades have a class participation component. You can reasonably expect "cold-calling" in some of your classes. Preparation also includes arriving with the materials that you will need. Bringing a notebook, writing implement, texts, and other materials signals to your professor and classmates that you are ready to engage that day's topic; arriving empty-handed signals the opposite.
+
+**QBA students use electronics in the classroom only for class purposes.** Laptops are to be closed. When class is in session, you may use your laptop only as directed by your professor. You should not check email, tweet, text, play games, or surf the Internet, any activity that diminishes your or your classmates' engagement with the classroom content and process. If you are unsure whether a given activity is appropriate, ask your professor. This policy extends to all electronic devices. Be sure that your phones and tablets are silenced and stowed before the class begins. Professors may add specific limits on sharing or using personal electronics during exams.
+
+**QBA students adhere to the CMU Policy on Academic Integrity.** As a Carnegie Mellon University, Qatar Business Administration student, you will be held to the highest standards of academic integrity. Your professors and others will help you to fully understand what this means, but in the simplest terms, representing someone else's work as your own or helping someone else to do so violates academic integrity. For example, not crediting a source in a research paper, copying a classmate's homework, and sharing answers on a quiz are plagiarism or cheating, violations of the rules of academic integrity. Providing or using unauthorized graded work and answer keys from previous course offerings constitutes "Unauthorized Assistance;" students providing the materials and students receiving the materials both are violating academic integrity standards. Taking credit for the work of teammates while contributing none, sometimes called "freeriding," likely violates academic integrity standards in that course. Be aware that the university policy on academic integrity, in addition to providing institution-wide standards, gives instructors the ability to determine what is appropriate in each of their courses. It is absolutely crucial for students to know the expectations for each course and to ask before they act when expectations are unclear.
+
+Please see CMU's general policies on cheating and plagiarism: <https://www.cmu.edu/policies/student-and-student-life/academic-integrity.html>
+
+Your business faculty is dedicated to creating avenues for your academic success; we want you to get the most out of your educational experience at CMU. However, should you choose to disregard university integrity standards, the faculty is committed to closely following university and campus policies for reporting violations and pursuing appropriate academic disciplinary actions. The university will tolerate no violation. Penalties can severely impact your success in a course or even progress toward your degree. Before you make a bad decision, speak to a professor and find a better path. All of your academic and behavioral responsibilities are detailed in the Q-Word Student Handbook and the CMU Undergraduate Catalog, both available online. You can find answers to many of your questions there.
+
+## Use of Generative AI Tools
+
+Certain assignments in this course will permit or even encourage the use of generative artificial intelligence (AI) tools, such as ChatGPT, Grok, and others. When AI use is permissible, it will be clearly stated in the assignment prompt posted in Canvas. Otherwise, generative AI is disallowed by default. In assignments where generative AI tools are allowed, you must appropriately acknowledge and cite their use. For instance, if you generated the whole document through ChatGPT and edited it for accuracy, your submitted work would need to include a note such as "I generated this work through ChatGPT and edited the content for accuracy." Paraphrasing or quoting smaller samples of AI-generated content must be appropriately acknowledged and cited, following the guidelines established by the APA Style Guide. It is each student's responsibility to assess the validity and applicability of any AI output that is submitted. You may not earn full credit if inaccurate or invalid information is found in your work, and you may be called into the professor's office to explain and defend your work if unauthorized use of AI is suspected, which could lead to getting no credit for your assignment and being reported for academic integrity. Deviations from the guidelines above will be considered violations of CMU's academic integrity policy. Note that expectations for "plagiarism, cheating, and acceptable assistance" on student work may vary across your courses and instructors. Please email me if you have questions regarding what is permissible and not for a particular course or assignment. Violations of this policy will be considered academic misconduct.
+
+Two ways to think about the use of AI in this course. Depending on the assignment, AI use is accepted with caution (AI with caution) or not allowed. See below:
+
+**YELLOW LEVEL: AI with caution.** AI tools may be used only for specific, limited purposes. The final work must be substantially students' own creation. Appropriate for assignments like problem sets (AI for concept clarification, not solutions); case study analysis (AI for background information only); literature reviews (AI for source organization, not interpretation). In this course, that is the problem sets and debate background, when the assignment says so.
+
+| Do | Don't |
+|----|-------|
+| Ensure you have your instructor's approval to use AI | Hide that you used AI |
+| Use AI only for allowed purposes | Copy AI responses without understanding |
+| Show your own critical thinking | Let AI write your analysis |
+| Document how you used AI | Skip documenting AI use |
+| Verify all AI-provided information | Forget to fact-check AI information |
+| Cite any information sources you used | Use AI beyond specified limits |
+| Make the work substantially your own | Rely on AI for the main argument |
+
+**RED LEVEL: No AI assistance is permitted for this assignment.** Applies to in-class exams and quizzes. No AI assistance is permitted for this assignment; it's all about students' individual skills and knowledge. These assignments help you develop confidence in your own abilities and allow the professor to assess your real understanding. All work must be completed independently using only approved course materials and resources as outlined.
+
+| Do | Don't |
+|----|-------|
+| Use only your own knowledge | Use any AI tools or chatbots |
+| Rely on approved course materials | Ask AI for help or ideas |
+| Ask instructor for clarification | Risk academic integrity violations |
+
+## Accommodations for Students with Disabilities
+
+Carnegie Mellon University is committed to providing reasonable accommodations for all persons with disabilities. If you have a disability and have an accommodations letter from the Office of Disability Resources, we encourage you to discuss your accommodations and needs with us as early in the semester as possible. We will work with you to ensure that accommodations are provided as appropriate.
+
+If you suspect that you may have a disability and would benefit from accommodations but are not yet registered with the Office of Disability Resources (<https://www.cmu.edu/disabilityresources/students/>), we encourage you to contact them directly at access@andrew.cmu.edu or through the CMU-Q Office of Health & Wellness or CaPS-Q.
+
+The Office of Disability Resources will review the information you provide. All information will be considered confidential and only released to appropriate persons on a need-to-know basis. If you have questions regarding accommodations, you may email the Director of the Office of Disability Resources, Catherine Getchell, at getchell@cmu.edu. Further information is also available on Scotty.
+
+If you have approved accommodations you intend to use for this course, please discuss them with me as soon as possible so I can ensure you have the support you need. After our meeting, please email me to confirm the accommodations we agreed upon. If you have accommodations involving taking graded tests/exams in the ARC, you should email the ARC at least one week before the test date to ensure they can support your request.
+
+## Take Care of Yourself
+
+We all feel stress at different times and for various reasons, and when we do, it is good to reach out for support. Do your best to maintain a healthy lifestyle by eating well, exercising, getting enough sleep, and taking some time to relax.
+
+Please know that you are not alone. Many helpful resources are available on campus, and an essential part of the college experience is learning how to ask for help. Asking for support sooner rather than later can often help prevent your situation from getting more complicated.
+
+If you or any of your CMUQ peers are experiencing academic stress, difficult life events, or feelings like anxiety or depression, we strongly encourage you to seek support.
+
+Our Student Affairs staff are here to help. Call 4454 8526 or send an email to any of the following:
+
+- Amie Rollins, Office of Health and Wellness (CMB 1103), amier@andrew.cmu.edu
+- Atorina Benjamin, Psychologist (CMB 1104), atorinab@qatar.cmu.edu
+- Dalia Rehal, Associate Dean of Student Affairs (CMB 1068), drehal@andrew.cmu.edu
+
+Consider also reaching out to a friend, faculty, staff, or family member you trust for help.
+
+If you would like to speak to a trained professional for mental health support, day or night, call our ProtoCall hotline at 5554 7913, which is staffed by trained mental health care providers. If the situation is life-threatening, call 999.
+
+## CMU-Q Library
+
+To help with your classwork and research, the Library provides access to a large collection of articles, books, statistics, and other sources available both onsite and remotely. To locate resources and learn more about events and services, bookmark the CMU-Q Library website at <https://www.library.cmu.edu/qatar>. Librarians Reya Saliba (rsaliba@andrew.cmu.edu) and Tatiana Usova (tusova@qatar.cmu.edu) are available to help you locate, evaluate, and cite sources. Speaking of citations, Team Library highly recommends the ZoteroBib website (<https://zbib.org/>) for creating on-the-fly citations and the Zotero stand-alone app (<https://www.zotero.org/>) for storing and managing citations. Want to learn more about Zotero and other Library resources? Librarians invite you to drop in, send an email, schedule an appointment, or attend a workshop. Note that they all have busy schedules and it can take time to procure sources, so it is highly recommended that you seek assistance at least one week before assignments are due.
+
+## Inclusive Excellence
+
+We must treat every individual with respect. We are diverse in many ways, and recognizing this diversity is fundamental to building and maintaining an inclusive campus community. Diversity can refer to our different perspectives, lived experiences, and our identities, including but not limited to race, color, national origin, sex, disability, age, sexual orientation, gender identity, pregnancy or related condition, family status, marital status, parental status, religion, ancestry, veteran status, or genetic information. What makes us different can shape the perspectives our students, faculty, and staff bring to our campus. Each of us is responsible for creating a safer, more inclusive environment.
+
+---
+
+This syllabus may be updated. We will announce material changes on the course website and Canvas.

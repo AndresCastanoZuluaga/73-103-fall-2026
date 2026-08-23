@@ -1,0 +1,22 @@
+---
+title: "Goods market"
+subtitle: "9, 16, and 21 Sep"
+format:
+  html:
+    toc: true
+    body-classes: "mlba-page"
+    code-tools: false
+---
+
+Short-run goods-market model (Blanchard 3), then a classroom simulation.
+
+| Date | Topic | Readings / due |
+|------|-------|----------------|
+| **Wed 9 Sep** | Short-term equilibrium: goods market | Blanchard Ch. 3; [goods dashboard](https://is-model-dashboard.streamlit.app); Handout 2 (complement). **[HW1](../homework/hw1.qmd) due.** Sim packet out (not a homework). |
+| **Thu 10 Sep** | Recitation — Blanchard Ch. 3 | Time TBD |
+| **Wed 16 Sep** | Short-term equilibrium: goods market | Blanchard Ch. 3. **Quiz 2** |
+| **Mon 21 Sep** | Multiplier classroom simulation | Mago (2014) and support materials on Canvas. **Mago (2014) discussion due.** |
+
+You do not need CORE 3.6–3.8 as required. Handout 2 does not replace Ch. 3. The dashboard is practice, not homework, unless Canvas says so.
+
+Next: [Financial markets](03-financial.qmd). Calendar: [Schedule](../schedule.qmd).

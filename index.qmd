@@ -1,0 +1,227 @@
+---
+title: "73-103 Principles of Macroeconomics"
+subtitle: "CMU-Q · Fall 2026"
+toc: false
+format:
+  html:
+    toc: false
+    body-classes: "home-proto home-proto2 mlba-home"
+    code-tools: false
+---
+
+::: {.hero .hero-proto}
+::: {.hero-kicker}
+CMU-Q · Fall 2026 · 73-103
+:::
+
+# 73-103 · Principles of Macroeconomics
+
+::: {.hero-instructor}
+**Professor:** Andrés Castaño Zuluaga
+:::
+
+
+::: {.hero-sub}
+Macroeconomics seeks to understand why some countries are rich and others poor; why some countries have high rates of inflation while others maintain stable prices; why countries experience phases of (sometimes rapid) expansion and subsequent (sometimes sharp) contraction; and how fiscal and monetary policy can reduce the frequency and severity of these episodes. Full policies and grading: [Syllabus](syllabus.qmd).
+:::
+
+::: {.hero-meta}
+[Mon & Wed · 10:00–11:15 · CMB 1199]{.hero-chip}
+:::
+:::
+
+```{=html}
+<section class="start-here start-here-v2 start-here-v3 start-here-icons" aria-label="Start here">
+  <p class="start-here-label">Start here</p>
+  <div class="start-here-tiles" role="list">
+    <a href="syllabus.html" class="start-tile start-tile-primary" role="listitem">
+      <span class="start-tile-icon" aria-hidden="true">
+        <svg viewBox="0 0 40 40" width="40" height="40" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="8" y="6" width="20" height="28" rx="2.5" stroke="currentColor" stroke-width="1.8"/>
+          <path d="M13 13h10M13 18h10M13 23h7" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+        </svg>
+      </span>
+      <span class="start-tile-text">
+        <span class="start-tile-title">Syllabus</span>
+        <span class="start-tile-sub">Policies &amp; grading</span>
+      </span>
+    </a>
+    <a href="schedule.html" class="start-tile start-tile-primary" role="listitem">
+      <span class="start-tile-icon" aria-hidden="true">
+        <svg viewBox="0 0 40 40" width="40" height="40" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="7" y="9" width="26" height="24" rx="3" stroke="currentColor" stroke-width="1.8"/>
+          <path d="M7 16h26M14 6v6M26 6v6" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+          <circle cx="15" cy="23" r="1.6" fill="currentColor"/>
+          <circle cx="20" cy="23" r="1.6" fill="currentColor"/>
+          <circle cx="25" cy="23" r="1.6" fill="currentColor"/>
+        </svg>
+      </span>
+      <span class="start-tile-text">
+        <span class="start-tile-title">Schedule</span>
+        <span class="start-tile-sub">Meetings &amp; deadlines</span>
+      </span>
+    </a>
+    <a href="notes/" class="start-tile start-tile-secondary" role="listitem">
+      <span class="start-tile-icon" aria-hidden="true">
+        <svg viewBox="0 0 40 40" width="40" height="40" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="8" y="6" width="20" height="28" rx="2.5" stroke="currentColor" stroke-width="1.8"/>
+          <path d="M13 13h10M13 18h10M13 23h7" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+        </svg>
+      </span>
+      <span class="start-tile-text">
+        <span class="start-tile-title">Notes/readings</span>
+      </span>
+    </a>
+    <a href="syllabus.html#office-hours" class="start-tile start-tile-oh" role="listitem">
+      <span class="start-tile-icon" aria-hidden="true">
+        <svg viewBox="0 0 40 40" width="40" height="40" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <circle cx="20" cy="20" r="12" stroke="currentColor" stroke-width="1.8"/>
+          <path d="M20 13v8l5 3" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </span>
+      <span class="start-tile-text">
+        <span class="start-tile-title">Office hours</span>
+        <span class="start-tile-sub">Tuesdays 3:30–5:00 pm · 2160</span>
+      </span>
+    </a>
+  </div>
+</section>
+
+<div class="canvas-banner canvas-banner-proto canvas-banner-early">
+  The syllabus, schedule, notes, and related materials live <strong>here</strong>.
+  <strong>Canvas</strong> is where you submit work and see your grades, and where homework files, weekly articles, discussions, and official due times are posted.
+</div>
+
+<section class="current-focus current-focus-soft" id="where-we-are" aria-label="Where we are" data-term-year="2026">
+  <p class="cf-badge">Where we are</p>
+  <p class="cf-title" id="cf-title">Before classes</p>
+  <div class="cf-body" id="cf-body">
+    <p>First class: <strong>Mon 24 Aug</strong> — intro and syllabus (Blanchard Ch. 1), CMB 1199, 10:00–11:15. GDP starts Wednesday. <a href="syllabus.html">Syllabus</a> · <a href="notes/01-measurement.html">Measurement</a> · <a href="schedule.html">Schedule</a>.</p>
+  </div>
+</section>
+<script>
+(function () {
+  var phases = [
+    { id: "preterm", until: "2026-08-24", title: "Before classes",
+      html: 'First class: <strong>Mon 24 Aug</strong> — intro and syllabus (Blanchard Ch. 1), CMB 1199, 10:00–11:15. GDP starts Wednesday. <a href="syllabus.html">Syllabus</a> · <a href="notes/01-measurement.html">Measurement</a> · <a href="schedule.html">Schedule</a>.' },
+    { id: "measurement", until: "2026-09-08", title: "Weeks 1–3 · measurement",
+      html: 'Intro, GDP, cycle/PPP, prices, employment — five meetings through <strong>Mon 7 Sep</strong>. Readings: <a href="notes/01-measurement.html">Measurement</a>. HW1 out Wed 26 Aug; due <strong>Wed 9 Sep</strong> on Canvas.' },
+    { id: "goods", until: "2026-09-22", title: "Goods market / multiplier",
+      html: 'Blanchard 3 + the goods dashboard + Handout 2 (9 and 16 Sep), then the Mago simulation on <strong>Mon 21 Sep</strong> (Mago 2014 discussion). Recitation <strong>Thu 10 Sep</strong> (time TBD). <a href="notes/02-goods.html">Notes</a> · <a href="schedule.html">Schedule</a>.' },
+    { id: "financial", until: "2026-10-01", title: "Financial markets",
+      html: 'Three meetings: 23, 28, 30 Sep. HW2 out <strong>Wed 23 Sep</strong>; due <strong>Wed 30 Sep</strong>. Recitation <strong>Thu 24 Sep</strong> (time TBD). <a href="notes/03-financial.html">Notes</a>.' },
+    { id: "islm", until: "2026-10-06", title: "IS–LM · toward the midterm",
+      html: 'IS–LM 1 on <strong>Mon 5 Oct</strong>, then the midterm. Recitation <strong>Thu 1 Oct</strong> (midterm review; time TBD). Midterm <strong>Wed 7 Oct</strong> covers meetings 1–12 as taught.' },
+    { id: "midtermweek", until: "2026-10-08", title: "Midterm week",
+      html: '<strong>Mon 5 Oct</strong> IS–LM 1 · <strong>Wed 7 Oct</strong> midterm (in class; meetings 1–12 as taught). No other homework due this week.' },
+    { id: "fallbreak", until: "2026-10-16", title: "Fall break",
+      html: 'No classes <strong>11–15 Oct</strong>. When we return: finish IS–LM. HW2 was due <strong>Wed 30 Sep</strong>.' },
+    { id: "islm2", until: "2026-10-27", title: "IS–LM after the break",
+      html: 'Finish IS–LM (19, 21, 26 Oct). Recitation <strong>Thu 22 Oct</strong> is extra IS–LM (time TBD). HW3 out Wed 21 Oct.' },
+    { id: "labor", until: "2026-11-03", title: "Labor and Phillips",
+      html: 'Thin Blanchard 7 on <strong>Wed 28 Oct</strong> (Quiz 4) and Blanchard 8 on <strong>Mon 2 Nov</strong> (HW3 due).' },
+    { id: "growth", until: "2026-11-17", title: "Growth",
+      html: 'Growth 1–3 (4, 9, 16 Nov). HW3 due <strong>Mon 2 Nov</strong>. Quiz 5 on 9 Nov; Quiz 6 on 16 Nov. No class Wed 11 Nov or Thu 12 Nov.' },
+    { id: "opendebate", until: "2026-11-26", title: "Open economy and the debate",
+      html: 'Open 1–2, then debate presentations <strong>Wed 25 Nov</strong>.' },
+    { id: "review", until: "2026-12-04", title: "Open 3–4 and final review",
+      html: 'Open 3–4 (Blanchard 19 and Qatar / peg). Final review is the Thursday recitation (analog <strong>3 Dec</strong>), not a lecture. Finals Dec 6–7 and 9–10.' },
+    { id: "after", until: "2099-01-01", title: "Term wrap-up",
+      html: 'Classes are done for this offering. Materials remain on this site for reference. Grades live on Canvas.' }
+  ];
+  function ymd(d) {
+    return d.getFullYear() + "-" + String(d.getMonth()+1).padStart(2,"0") + "-" + String(d.getDate()).padStart(2,"0");
+  }
+  function pickPhase(today) {
+    var t = ymd(today);
+    for (var i = 0; i < phases.length; i++) if (t < phases[i].until) return phases[i];
+    return phases[phases.length - 1];
+  }
+  var root = document.getElementById("where-we-are");
+  if (!root) return;
+  var phase = pickPhase(new Date());
+  var titleEl = document.getElementById("cf-title");
+  var bodyEl = document.getElementById("cf-body");
+  if (titleEl) titleEl.textContent = phase.title;
+  if (bodyEl) bodyEl.innerHTML = "<p>" + phase.html + "</p>";
+  root.setAttribute("data-phase", phase.id);
+})();
+</script>
+```
+
+::: {.warm-note .warm-note-proto}
+**A note from me.** If my office door is open (office **2160**), stop by to get help with course content or to discuss a recent macroeconomic event that has caught your attention. If something in the readings or a homework is unclear, say so early. 
+:::
+
+## Models you will actually use
+
+We move from measurement to goods, financial markets, and IS–LM, then a thin labor / Phillips discussion, we transition into productivity and  economic growth, and finish with the open economy. 
+
+```{=html}
+<div class="method-grid method-grid-proto">
+  <div class="method-card">
+    <p class="method-name">Measurement</p>
+    <p class="method-tag">GDP, prices, employment: definition, limitations, and applications</p>
+  </div>
+  <div class="method-card">
+    <p class="method-name">Goods market</p>
+    <p class="method-tag"> Aggregate demand, Multiplier, and Equilibrium</p>
+  </div>
+  <div class="method-card">
+    <p class="method-name">Financial markets</p>
+    <p class="method-tag">financial institutions, bond prices and yields, determination of the interest rate</p>
+  </div>
+  <div class="method-card">
+    <p class="method-name">IS–LM</p>
+    <p class="method-tag">Goods and financial markets together</p>
+  </div>
+  <div class="method-card">
+    <p class="method-name">Growth</p>
+    <p class="method-tag">Production functions and growth accounting</p>
+  </div>
+  <div class="method-card">
+    <p class="method-name">Labor markets, Phillips curve, and the open economy</p>
+  </div>
+</div>
+<p class="methods-foot">Full meeting-by-meeting plan: <a href="schedule.html">Schedule</a>.</p>
+```
+
+## How a week works
+
+Our weekly structure so you always know how to prepare.
+
+```{=html}
+<div class="path-grid-proto path-grid-2x2 path-with-icons">
+  <div class="path-card-proto">
+    <span class="path-num">01 · Before class</span>
+    <h3>Do your readings</h3>
+    <p>Each unit page lists what to read. Handouts are a supplement, not a replacement for class or the books chapters.</p>
+  </div>
+  <div class="path-card-proto accent-orange">
+    <span class="path-num">02 · In class</span>
+    <h3>Discussion Article</h3>
+    <p>We open with 5–10 minutes on an FT / <em>Economist</em> / WSJ discussion article from Canvas, then we transition into the lecture of the day.</p>
+  </div>
+  <div class="path-card-proto accent-green">
+    <span class="path-num">03 · After class</span>
+    <h3>Slides posted after class</h3>
+    <p>Review slides posted along with the source material; attend recitations when scheduled.</p>
+  </div>
+  <div class="path-card-proto accent-cyan">
+    <span class="path-num">04 · Outside class</span>
+    <h3>Discuss, then submit on Canvas</h3>
+    <p>I post articles for next week on Wednesdays. You submit answers to the discussion questions by Saturday 11:59 Qatar, 100–200 words.</p>
+  </div>
+</div>
+```
+
+## Learn & deliver
+
+```{=html}
+<div class="nav-grid-proto nav-grid-4 nav-learn-only">
+  <a class="nav-card-proto nav-learn" href="notes/"><strong>Notes</strong><span></span></a>
+  <a class="nav-card-proto nav-learn" href="homework/"><strong>Homework</strong><span></span></a>
+  <a class="nav-card-proto nav-learn" href="dashboards/"><strong>Dashboards</strong><span></span></a>
+  <a class="nav-card-proto nav-learn" href="recitations.html"><strong>Recitations</strong><span></span></a>
+</div>
+```

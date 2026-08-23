@@ -1,0 +1,19 @@
+---
+title: "HW4 · Class debate"
+subtitle: "Presentations Wed 25 Nov"
+format:
+  html:
+    toc: true
+    body-classes: "mlba-page"
+    code-tools: false
+---
+
+::: {.canvas-note}
+The debate topic, guidelines, group list, and any written piece will be on **Canvas** when posted. **Submit on Canvas.** This page is dates only until then.
+:::
+
+The debate is homework 4 (the last of four problem sets). **Presentations:** Wednesday 25 November in class. The topic will be announced on Canvas.
+
+Monday 23 November is an open-economy class, not a prep class.
+
+Calendar: [Schedule](../schedule.qmd).

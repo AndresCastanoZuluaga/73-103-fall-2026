@@ -1,0 +1,64 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "73-103 Principles of Macroeconomics"
+  site-url: "https://AndresCastanoZuluaga.github.io/73-103-fall-2026"
+  repo-url: "https://github.com/AndresCastanoZuluaga/73-103-fall-2026"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: syllabus.qmd
+        text: Syllabus
+      - href: schedule.qmd
+        text: Schedule
+      - href: recitations.qmd
+        text: Recitations
+      - text: Notes
+        menu:
+          - href: notes/index.qmd
+            text: Overview
+          - href: notes/01-measurement.qmd
+            text: 1 · Measurement
+          - href: notes/02-goods.qmd
+            text: 2 · Goods market
+          - href: notes/03-financial.qmd
+            text: 3 · Financial markets
+          - href: notes/04-islm.qmd
+            text: 4 · IS–LM
+          - href: notes/05-labor-phillips.qmd
+            text: 5 · Labor and Phillips
+          - href: notes/06-growth.qmd
+            text: 6 · Growth
+          - href: notes/07-open-economy.qmd
+            text: 7 · Open economy
+          - href: notes/08-debate.qmd
+            text: 8 · Debate
+      - text: Homework
+        menu:
+          - href: homework/index.qmd
+            text: Overview
+          - href: homework/hw1.qmd
+            text: HW1
+          - href: homework/hw2.qmd
+            text: HW2
+          - href: homework/hw3.qmd
+            text: HW3
+          - href: homework/hw4-debate.qmd
+            text: HW4 · Debate
+      - href: dashboards/index.qmd
+        text: Dashboards
+  page-footer: |
+    73-103 Principles of Macroeconomics · CMU-Q Fall 2026 ·
+    Materials on this site · Submissions and grades on Canvas only
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    css: styles.css
+
+execute:
+  freeze: auto

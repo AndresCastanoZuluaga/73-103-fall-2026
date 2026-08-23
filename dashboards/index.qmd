@@ -1,0 +1,17 @@
+---
+title: "Dashboards"
+subtitle: "Models you can move"
+format:
+  html:
+    toc: true
+    body-classes: "mlba-page"
+    code-tools: false
+---
+
+These are extras. Use them when the unit opens. They are not homework unless Canvas says so.
+
+**Goods market** (from Wednesday 9 September): [is-model-dashboard.streamlit.app](https://is-model-dashboard.streamlit.app)
+
+**IS–LM** (from Monday 5 October): [islmdash-upcnxhgk.manus.space](https://islmdash-upcnxhgk.manus.space)
+
+Calendar: [Schedule](../schedule.qmd).

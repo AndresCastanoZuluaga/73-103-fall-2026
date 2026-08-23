@@ -1,0 +1,15 @@
+---
+title: "Debate"
+subtitle: "Wed 25 Nov"
+format:
+  html:
+    toc: true
+    body-classes: "mlba-page"
+    code-tools: false
+---
+
+The class debate is [homework 4](../homework/hw4-debate.qmd). Presentations are **Wednesday 25 November** in class. Topic and guidelines will be announced on Canvas.
+
+Monday 23 November is an open-economy class (Blanchard 18), not a debate-prep class. The final review is the Thursday recitation (**3 Dec**), not a lecture on 30 Nov or 2 Dec.
+
+Calendar: [Schedule](../schedule.qmd).

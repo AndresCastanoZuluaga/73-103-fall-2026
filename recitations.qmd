@@ -1,0 +1,32 @@
+---
+title: "Recitations"
+subtitle: "Aicha Malouche · Thursdays · times TBD"
+format:
+  html:
+    toc: true
+    body-classes: "mlba-page"
+    code-tools: false
+---
+
+We will have recitation sessions with two goals in mind:
+
+- Add value to the lectures by focusing on case studies and applications that support overall understanding of the class content.
+- Provide an avenue to engage with the type of questions and problems (when it comes to structure) you may face in the exam, so that it can give you an idea of the type of questions asked and how to solve them.
+
+The TA will lead the recitation session, with the CA providing support. The professor will select the content and questions. Attendance is voluntary. If attendance is too low, remaining sessions may be cancelled. If you find them valuable, tell your classmates so the sessions stay worth running.
+
+**Time and room** will be posted on Canvas once they are decided.
+
+| Date | Focus |
+|------|-------|
+| Thursday 10 September | Goods market, Blanchard Ch. 3 |
+| Thursday 24 September | Financial markets, Blanchard Ch. 4 |
+| Thursday 1 October | Midterm review |
+| Thursday 22 October | IS–LM |
+| Thursday 3 December | Final review |
+
+No recitation on Thursday 8 October (the day after the midterm) or Thursday 26 November (debate week).
+
+Any recitation packet will be posted on **Canvas**.
+
+Calendar: [Schedule](schedule.qmd).

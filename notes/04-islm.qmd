@@ -1,0 +1,24 @@
+---
+title: "IS–LM"
+subtitle: "5 Oct · 19, 21, 26 Oct"
+format:
+  html:
+    toc: true
+    body-classes: "mlba-page"
+    code-tools: false
+---
+
+Goods and financial markets together (Blanchard 5). Only the first class is before the midterm.
+
+| Date | Topic | Readings / due |
+|------|-------|----------------|
+| **Mon 5 Oct** | Goods and financial markets together: IS–LM | Blanchard Ch. 5 |
+| **Wed 7 Oct** | **Midterm** | Meetings 1–12 as taught |
+| **Mon 19 Oct** | IS–LM: LM and the joint diagram | Blanchard Ch. 5 |
+| **Wed 21 Oct** | IS–LM: fiscal vs monetary policy | Blanchard Ch. 5; [dashboard](https://islmdash-upcnxhgk.manus.space). **Quiz 3.** **[HW3](../homework/hw3.qmd) out** |
+| **Thu 22 Oct** | Recitation — IS–LM | Time TBD |
+| **Mon 26 Oct** | IS–LM: policy mix and the GFC | Blanchard Ch. 5; dashboard |
+
+The [IS–LM dashboard](https://islmdash-upcnxhgk.manus.space) is practice, not a replacement for Ch. 5. You do not need Blanchard 6 or 9 as required.
+
+Next: [Labor and Phillips](05-labor-phillips.qmd). Calendar: [Schedule](../schedule.qmd).

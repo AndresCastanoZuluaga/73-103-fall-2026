@@ -1,0 +1,23 @@
+---
+title: "Open economy"
+subtitle: "18 Nov – 2 Dec"
+format:
+  html:
+    toc: true
+    body-classes: "mlba-page"
+    code-tools: false
+---
+
+Blanchard 17–19, with debate presentations on Wednesday 25 November. Last week is open economy, not a review lecture.
+
+| Date | Topic | Readings / due |
+|------|-------|----------------|
+| **Wed 18 Nov** | Openness in goods and financial markets | Blanchard 17 |
+| **Mon 23 Nov** | Openness in goods and financial markets | Blanchard 18. Discussion article (Canvas). |
+| **Wed 25 Nov** | Debate (HW4) presentations | See [Debate](08-debate.qmd) |
+| **Mon 30 Nov** | Open economy | Blanchard 19 |
+| **Wed 2 Dec** | Open economy: Qatar / peg | Class notes; Blanchard 19. Last class |
+
+You do not need Blanchard 20 as required.
+
+Next: [Debate](08-debate.qmd). Calendar: [Schedule](../schedule.qmd).

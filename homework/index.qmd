@@ -1,0 +1,22 @@
+---
+title: "Homework"
+subtitle: "Dates — prompts and files on Canvas when posted"
+format:
+  html:
+    toc: true
+    body-classes: "mlba-page"
+    code-tools: false
+---
+
+::: {.canvas-note}
+This page is the date list. **Prompts, files, and the submission box are on Canvas when posted.** Submit on Canvas only. Solution keys are not posted. Official due times are the Canvas clock (23:59 Qatar unless a prompt says otherwise).
+:::
+
+Four problem sets. The last problem set is a debate (HW4).
+
+| Item | Out | Due |
+|------|-----|-----|
+| **[HW1](hw1.qmd)** | Wed 26 Aug | **Wed 9 Sep** |
+| **[HW2](hw2.qmd)** | Wed 23 Sep | **Wed 30 Sep** |
+| **[HW3](hw3.qmd)** | Wed 21 Oct | **Mon 2 Nov** |
+| **[HW4](hw4-debate.qmd)** | — | Presentations **Wed 25 Nov** |

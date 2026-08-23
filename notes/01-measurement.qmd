@@ -1,0 +1,27 @@
+---
+title: "Measurement"
+subtitle: "24 Aug – 7 Sep · intro, GDP, prices, employment"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    toc-location: right
+    body-classes: "mlba-page"
+    code-tools: false
+---
+
+Intro on Monday 24 August, then GDP, the cycle and PPP, prices, and employment. Goods starts Wednesday 9 September.
+
+Slides are posted on Canvas **after** class. **Handout 1** complements the readings; it does not replace them. [HW1](../homework/hw1.qmd) dates: out Wed 26 Aug, due **Wed 9 Sep** on Canvas.
+
+| Date | Topic | Readings |
+|------|-------|----------|
+| **Mon 24 Aug** | Introduction and syllabus | Syllabus; Blanchard 9e Ch. 1 (chapter only) |
+| **Wed 26 Aug** | Measuring GDP | CORE 3.1–3.4; Handout 1 (complement) |
+| **Mon 31 Aug** | Business cycle, GDP variants and limitations, inflation intro | CORE 3.5; Blanchard 10 pp. 201–203; CORE 4.1–4.2. **Quiz 1** |
+| **Wed 2 Sep** | Measuring the cost of living | CORE 4.2–4.4 |
+| **Mon 7 Sep** | Labor markets | CORE 1.3–1.4; Blanchard Ch. 7 pp. 135–140 |
+
+You do not need, in this block: Mankiw Ch. 10 or 11 as required; CORE 4.5–4.9; CORE 1.1–1.2 or 1.5–1.8; Blanchard 7 after p. 140; Mankiw Ch. 12 (growth comes later).
+
+Next: [Goods market](02-goods.qmd). Calendar: [Schedule](../schedule.qmd).

@@ -1,0 +1,26 @@
+---
+title: "Notes"
+subtitle: "Readings by unit · 73-103 Fall 2026"
+format:
+  html:
+    toc: true
+    body-classes: "mlba-page"
+    code-tools: false
+---
+
+Each unit lists meetings and assigned readings. Slides are posted **after** class on Canvas. Handouts complement the main readings; they do not replace them.
+
+Weekly articles, discussions, and anything you must turn in are on **Canvas**.
+
+| Unit | Meetings | Page |
+|------|----------|------|
+| 1 Measurement | 24 Aug – 7 Sep | [01 · Measurement](01-measurement.qmd) |
+| 2 Goods market | 9, 16, 21 Sep | [02 · Goods](02-goods.qmd) |
+| 3 Financial markets | 23, 28, 30 Sep | [03 · Financial](03-financial.qmd) |
+| 4 IS–LM | 5 Oct · 19, 21, 26 Oct | [04 · IS–LM](04-islm.qmd) |
+| 5 Labor and Phillips | 28 Oct, 2 Nov | [05 · Labor and Phillips](05-labor-phillips.qmd) |
+| 6 Growth | 4, 9, 16 Nov | [06 · Growth](06-growth.qmd) |
+| 7 Open economy | 18 Nov, 23 Nov, 30 Nov, 2 Dec | [07 · Open economy](07-open-economy.qmd) |
+| 8 Debate | Wed 25 Nov | [08 · Debate](08-debate.qmd) |
+
+Midterm: **Wed 7 Oct** (meetings 1–12 as taught). Full calendar: [Schedule](../schedule.qmd).

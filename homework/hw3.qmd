@@ -1,0 +1,17 @@
+---
+title: "HW3"
+subtitle: "Due Mon 2 Nov · submit on Canvas"
+format:
+  html:
+    toc: true
+    body-classes: "mlba-page"
+    code-tools: false
+---
+
+::: {.canvas-note}
+The assignment file, any starter, and the submission box will be on **Canvas** when posted. **Submit on Canvas.** This page is dates only until then.
+:::
+
+**Out:** Wednesday 21 October. **Due:** Monday 2 November, 23:59 Qatar.
+
+Calendar: [Schedule](../schedule.qmd).

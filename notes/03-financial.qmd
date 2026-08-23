@@ -1,0 +1,23 @@
+---
+title: "Financial markets"
+subtitle: "23, 28, and 30 Sep"
+format:
+  html:
+    toc: true
+    body-classes: "mlba-page"
+    code-tools: false
+---
+
+Interest rates in the short run: money and bonds, banks, and the zero lower bound (Blanchard 4).
+
+| Date | Topic | Readings / due |
+|------|-------|----------------|
+| **Wed 23 Sep** | Short-term equilibrium: financial markets | Blanchard Ch. 4; Handout 3 (complement). **[HW2](../homework/hw2.qmd) out** |
+| **Thu 24 Sep** | Recitation — financial markets | Time TBD |
+| **Mon 28 Sep** | Banks and reserves | Blanchard Ch. 4; Handout 3 |
+| **Wed 30 Sep** | Equilibrium and ZLB | Blanchard Ch. 4; Handout 3. **[HW2](../homework/hw2.qmd) due** |
+| **Thu 1 Oct** | Recitation — midterm review | Time TBD |
+
+You do not need Blanchard 6 or Mankiw 16 as the financial week.
+
+Next: [IS–LM](04-islm.qmd). Calendar: [Schedule](../schedule.qmd).
