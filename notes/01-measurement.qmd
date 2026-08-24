@@ -12,7 +12,7 @@ format:
 
 Intro on Monday 24 August, then GDP, the cycle and PPP, prices, and employment. Goods starts Wednesday 9 September.
 
-Slides are posted on Canvas **after** class. **Handout 1** complements the readings; it does not replace them. [HW1](../homework/hw1.qmd) dates: out Wed 26 Aug, due **Wed 9 Sep** on Canvas.
+Slides are posted **after** class on the [Slides](../slides/index.qmd) page. **Handout 1** complements the readings; it does not replace them. [HW1](../homework/hw1.qmd) dates: out Wed 26 Aug, due **Wed 9 Sep** on Canvas.
 
 | Date | Topic | Readings |
 |------|-------|----------|

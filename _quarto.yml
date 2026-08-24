@@ -14,6 +14,8 @@ website:
         text: Syllabus
       - href: schedule.qmd
         text: Schedule
+      - href: slides/index.qmd
+        text: Slides
       - href: recitations.qmd
         text: Recitations
       - text: Notes

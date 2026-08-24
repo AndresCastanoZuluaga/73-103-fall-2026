@@ -1,0 +1,17 @@
+---
+title: "Slides"
+subtitle: "PDF after class"
+format:
+  html:
+    toc: false
+    body-classes: "mlba-page"
+    code-tools: false
+---
+
+<p class="page-lead">I post a PDF of the slides <strong>after class</strong>, not before. Use the <a href="../notes/">notes</a> to prepare. If a PDF is not here yet, we have not finished that meeting. Submissions stay on Canvas.</p>
+
+## This term
+
+| Meeting | Topic | PDF |
+|---------|-------|-----|
+| Mon 24 Aug | Introduction and motivation | [01_Intro_and_motivation.pdf](01_Intro_and_motivation.pdf) |

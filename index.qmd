@@ -205,7 +205,7 @@ Our weekly structure so you always know how to prepare.
   <div class="path-card-proto accent-green">
     <span class="path-num">03 · After class</span>
     <h3>Slides posted after class</h3>
-    <p>Review slides posted along with the source material; attend recitations when scheduled.</p>
+    <p>Review the PDF on the <a href="slides/">Slides</a> page. Attend recitations when scheduled.</p>
   </div>
   <div class="path-card-proto accent-cyan">
     <span class="path-num">04 · Outside class</span>

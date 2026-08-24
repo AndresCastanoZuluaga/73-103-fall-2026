@@ -8,7 +8,7 @@ format:
     code-tools: false
 ---
 
-Each unit lists meetings and assigned readings. Slides are posted **after** class on Canvas. Handouts complement the main readings; they do not replace them.
+Each unit lists meetings and assigned readings. Slides are posted **after** class on the [Slides](../slides/index.qmd) page. Handouts complement the main readings; they do not replace them.
 
 Weekly articles, discussions, and anything you must turn in are on **Canvas**.
 
