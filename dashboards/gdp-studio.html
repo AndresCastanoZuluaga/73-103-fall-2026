@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Dashboards – 73-103 Principles of Macroeconomics</title>
+<title>GDP Studio – 73-103 Principles of Macroeconomics</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -180,7 +180,7 @@ ul.task-list li input[type="checkbox"] {
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link active" href="../dashboards/index.html" aria-current="page"> 
+    <a class="nav-link" href="../dashboards/index.html"> 
 <span class="menu-text">Dashboards</span></a>
   </li>  
 </ul>
@@ -194,16 +194,30 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul class="collapse">
+  <li><a href="#two-stories-about-the-same-country" id="toc-two-stories-about-the-same-country" class="nav-link active" data-scroll-target="#two-stories-about-the-same-country">1. Two stories about the same country</a></li>
+  <li><a href="#the-201416-oil-price-fall-predict-then-look" id="toc-the-201416-oil-price-fall-predict-then-look" class="nav-link" data-scroll-target="#the-201416-oil-price-fall-predict-then-look">2. The 2014–16 oil-price fall — predict, then look</a></li>
+  <li><a href="#concept-is-it-in-gdp" id="toc-concept-is-it-in-gdp" class="nav-link" data-scroll-target="#concept-is-it-in-gdp">3. Concept — is it in GDP?</a></li>
+  <li><a href="#algebra-value-added" id="toc-algebra-value-added" class="nav-link" data-scroll-target="#algebra-value-added">4. Algebra — value added</a></li>
+  <li><a href="#algebra-karak-and-dates" id="toc-algebra-karak-and-dates" class="nav-link" data-scroll-target="#algebra-karak-and-dates">5. Algebra — karak and dates</a></li>
+  <li><a href="#three-identities-write-them-once" id="toc-three-identities-write-them-once" class="nav-link" data-scroll-target="#three-identities-write-them-once">6. Three identities (write them once)</a></li>
+  <li><a href="#graph-india-two-measuring-sticks" id="toc-graph-india-two-measuring-sticks" class="nav-link" data-scroll-target="#graph-india-two-measuring-sticks">7. Graph — India, two measuring sticks</a></li>
+  <li><a href="#case-type-iv-not-mondays-quiz" id="toc-case-type-iv-not-mondays-quiz" class="nav-link" data-scroll-target="#case-type-iv-not-mondays-quiz">8. Case (Type IV) — not Monday’s quiz</a></li>
+  <li><a href="#gdp-versus-gni" id="toc-gdp-versus-gni" class="nav-link" data-scroll-target="#gdp-versus-gni">9. GDP versus GNI</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Dashboards</h1>
-<p class="subtitle lead">Models you can move</p>
+<h1 class="title">GDP Studio</h1>
+<p class="subtitle lead">Study guide · 73-103 · after Wednesday 26 August</p>
 </div>
 
 
@@ -220,13 +234,254 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>These are extras. Use them when the unit opens. They are not homework unless Canvas says so.</p>
-<p><strong>National accounts studio</strong> (from Wednesday 26 August, after class): <a href="gdp-lab.html">gdp-lab.html</a> — identities and the first behavioral functions, circular flow, classification, Qatar prints, nominal/real, PPP and GNI, a problem set at exam grain, and cases (Ireland, Venezuela, Nigeria, Japan, India). Not a submission and not Monday’s quiz.</p>
-<p><strong>Goods market</strong> (from Wednesday 9 September): <a href="https://is-model-dashboard.streamlit.app">is-model-dashboard.streamlit.app</a></p>
-<p><strong>IS–LM</strong> (from Monday 5 October): <a href="https://islmdash-upcnxhgk.manus.space">islmdash-upcnxhgk.manus.space</a></p>
-<p>Calendar: <a href="../schedule.html">Schedule</a>.</p>
+<p>This page is the take-home for the GDP unit. It is <strong>not</strong> homework (submit nothing here). It is <strong>not</strong> Monday’s quiz.</p>
+<p>Walk each beat: read the idea → try the problem → then open the reveal. The four moves are the ones used on exams: <strong>concept</strong>, <strong>algebra</strong>, <strong>graph</strong>, <strong>case</strong>.</p>
+<p>Data on this page: <strong>World Bank, World Development Indicators</strong>, unless a sentence names the International Monetary Fund Country Report 24/43. CORE readings: <em>The Economy</em> 2.0 Macro 3.1–3.4.</p>
+<p>Calendar: <a href="../schedule.html">Schedule</a> · <a href="../notes/01-measurement.html">Measurement notes</a></p>
+<hr>
+<section id="two-stories-about-the-same-country" class="level2">
+<h2 class="anchored" data-anchor-id="two-stories-about-the-same-country">1. Two stories about the same country</h2>
+<p><strong>Idea.</strong> Qatar’s <strong>dollar</strong> GDP fell from 2022 to 2023 ($236 billion → $213 billion). <strong>Volume</strong> still grew (+4.2% then +1.2%). A manager who only reads the dollar number thinks 2023 was a contraction.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/qatar_2021_23.png" class="img-fluid figure-img"></p>
+<figcaption>Qatar 2021–2023, real growth versus dollar GDP</figcaption>
+</figure>
+</div>
+<p><strong>Your try (graph).</strong> In one sentence: which panel answers “did the economy produce more stuff?” Which panel answers “did the dollar value of that stuff rise?”</p>
+<details>
+<summary>
+Reveal
+</summary>
+Left panel = volume (real growth). Right panel = current dollars (nominal). 2023: more stuff, cheaper hydrocarbon prices, so the dollar total fell. World Bank: <code>NY.GDP.MKTP.KD.ZG</code>, <code>NY.GDP.MKTP.CD</code>.
+</details>
+<hr>
+</section>
+<section id="the-201416-oil-price-fall-predict-then-look" class="level2">
+<h2 class="anchored" data-anchor-id="the-201416-oil-price-fall-predict-then-look">2. The 2014–16 oil-price fall — predict, then look</h2>
+<p><strong>Your try.</strong> The dollar price of oil collapsed. Did Qatar’s <strong>dollar</strong> GDP fall? Did <strong>volume</strong> fall as much? Write your guess before you open the figure.</p>
+<details>
+<summary>
+Reveal — the chart
+</summary>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/qatar_2014_16.png" class="img-fluid figure-img"></p>
+<figcaption>Qatar 2014–16</figcaption>
+</figure>
+</div>
+Nominal GDP $206 billion (2014) → $152 billion (2016). Real growth stayed <strong>positive</strong> each year. Same lesson as 2022–23, bigger crash. World Bank WDI.
+</details>
+<hr>
+</section>
+<section id="concept-is-it-in-gdp" class="level2">
+<h2 class="anchored" data-anchor-id="concept-is-it-in-gdp">3. Concept — is it in GDP?</h2>
+<p><strong>Your try.</strong> For each, answer GDP or not, and which letter if yes (C, I, G, X−M). An import can be two letters.</p>
+<ol type="1">
+<li>2019 Land Cruiser on Qatar Living.<br>
+</li>
+<li>New iPhone at Vodafone (assembled abroad).<br>
+</li>
+<li>QNB shares.<br>
+</li>
+<li>Teacher’s salary, Ministry of Education.<br>
+</li>
+<li>European fan’s Doha hotel, World Cup 2022.<br>
+</li>
+<li>North Field East LNG train.<br>
+</li>
+<li>New Qatar Airways aircraft (imported).<br>
+</li>
+<li>A worker in Doha sends money home.<br>
+</li>
+<li>Unsold new cars on a Doha dealer’s lot.</li>
+</ol>
+<details>
+<summary>
+Reveal
+</summary>
+<ol type="1">
+<li>Not GDP (used).<br>
+</li>
+<li>C and −M.<br>
+</li>
+<li>Not I (financial).<br>
+</li>
+<li><ol start="7" type="A">
+<li></li>
+</ol></li>
+<li>X (service export).<br>
+</li>
+<li><ol type="I">
+<li></li>
+</ol></li>
+<li>I and −M.<br>
+</li>
+<li>Not C in Qatar; can move <strong>GNI</strong>, not GDP.<br>
+</li>
+<li>+I (inventories). When they sell, −I and +C (or +X).</li>
+</ol>
+</details>
+<hr>
+</section>
+<section id="algebra-value-added" class="level2">
+<h2 class="anchored" data-anchor-id="algebra-value-added">4. Algebra — value added</h2>
+<p>Cotton shirt (CORE 3.2). Fill the last column, then the totals.</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Stage</th>
+<th>Cost of input</th>
+<th>Price of output</th>
+<th>Value added</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Raw cotton</td>
+<td>0</td>
+<td>50</td>
+<td>?</td>
+</tr>
+<tr class="even">
+<td>Cloth</td>
+<td>50</td>
+<td>80</td>
+<td>?</td>
+</tr>
+<tr class="odd">
+<td>Shirt</td>
+<td>80</td>
+<td>100</td>
+<td>?</td>
+</tr>
+<tr class="even">
+<td>Sum of <strong>sales</strong></td>
+<td></td>
+<td></td>
+<td>?</td>
+</tr>
+<tr class="odd">
+<td>Sum of <strong>value added</strong> = final sale</td>
+<td></td>
+<td></td>
+<td>?</td>
+</tr>
+</tbody>
+</table>
+<details>
+<summary>
+Reveal
+</summary>
+Value added: 50, 30, 20. Sum of sales = 230 (wrong if you call that GDP). Sum of value added = 100 = the final shirt. Do not add intermediate invoices.
+</details>
+<hr>
+</section>
+<section id="algebra-karak-and-dates" class="level2">
+<h2 class="anchored" data-anchor-id="algebra-karak-and-dates">5. Algebra — karak and dates</h2>
+<p>Year 1: karak P=10, Q=100; dates P=20, Q=50.<br>
+Year 2: karak P=12, Q=110; dates P=22, Q=55.</p>
+<p>Compute nominal GDP in each year, and real GDP in year 2 using year-1 prices.</p>
+<details>
+<summary>
+Reveal
+</summary>
+Nominal Y1 = 10×100 + 20×50 = <strong>2,000</strong>.<br>
+Nominal Y2 = 12×110 + 22×55 = <strong>2,530</strong>.<br>
+Real Y2 (Y1 prices) = 10×110 + 20×55 = <strong>2,200</strong>.<br>
+Nominal growth 26.5%. Real growth 10%. The gap is prices.<br>
+Classroom illustration (Qatari riyals), not a national account. Same shape as CORE 3.4.
+</details>
+<hr>
+</section>
+<section id="three-identities-write-them-once" class="level2">
+<h2 class="anchored" data-anchor-id="three-identities-write-them-once">6. Three identities (write them once)</h2>
+<p>[ Y_{} = , Y_{} = +++, Y_{} C+I+G+(X-M) ]</p>
+<p>If we counted everything, the three are equal. Recessions are falling output — therefore falling expenditure. Source: CORE 3.2–3.3.</p>
+<p><strong>World Cup (IMF Country Report 24/43):</strong> hotels and visitors in 2022 Q4 are a <strong>flow</strong> (X and C). Metro, port, Lusail over a decade are <strong>I</strong> (about US$200–300 billion of infrastructure; on the order of 1% of 2022 GDP for the event itself).</p>
+<hr>
+</section>
+<section id="graph-india-two-measuring-sticks" class="level2">
+<h2 class="anchored" data-anchor-id="graph-india-two-measuring-sticks">7. Graph — India, two measuring sticks</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/india_ppp.png" class="img-fluid figure-img"></p>
+<figcaption>India 2023, market dollars versus purchasing-power dollars</figcaption>
+</figure>
+</div>
+<p><strong>Your try (graph).</strong> Why can India look four times larger at purchasing-power than at market exchange rates? What would a phone-exporter care about that a local hairdresser would not?</p>
+<details>
+<summary>
+Reveal
+</summary>
+Haircuts and rent are cheap relative to tradable goods. Purchasing-power GDP prices a common basket. Market dollars matter when the invoice is in dollars (imported phones, factory equipment). World Bank WDI, 2023: market GDP $3.5 trillion; PPP $14.2 trillion.
+</details>
+<hr>
+</section>
+<section id="case-type-iv-not-mondays-quiz" class="level2">
+<h2 class="anchored" data-anchor-id="case-type-iv-not-mondays-quiz">8. Case (Type IV) — not Monday’s quiz</h2>
+<p>You advise a firm that <strong>earns in US dollars</strong> and is choosing <strong>one</strong> country to <strong>produce</strong> a labor-intensive good: <strong>Qatar, India, Vietnam, or Kenya</strong>.</p>
+<p>World Bank, 2023 (current USD, trillions except per person):</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th></th>
+<th>Dollar GDP</th>
+<th>Purchasing-power GDP</th>
+<th>Dollar GDP per person</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Qatar</td>
+<td>0.21</td>
+<td>0.34</td>
+<td>80,200</td>
+</tr>
+<tr class="even">
+<td>India</td>
+<td>3.50</td>
+<td>14.17</td>
+<td>2,430</td>
+</tr>
+<tr class="odd">
+<td>Vietnam</td>
+<td>0.43</td>
+<td>1.51</td>
+<td>—</td>
+</tr>
+<tr class="even">
+<td>Kenya</td>
+<td>0.11</td>
+<td>0.35</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+<p>Recommend one country for <strong>production cost</strong>, and say why that same country might be a <strong>poor place to sell</strong> a dollar-priced luxury good.</p>
+<p>There is <strong>no unique answer</strong>. You must use the difference between dollar GDP and purchasing-power GDP. Do <strong>not</strong> use Argentina, Indonesia, Mexico, or Poland here — those appeared on older quizzes.</p>
+<details>
+<summary>
+Reveal — a reasonable argument, not the only one
+</summary>
+A low price level (purchasing-power GDP high relative to dollar GDP) means a dollar buys a lot of local labor and rent — attractive for <strong>production</strong>. The same low dollar incomes make <strong>local sales</strong> of a $1,000 device small. India and Vietnam typically show a large PPP-versus-market gap; Qatar’s price level is high (energy incomes). Kenya is closer to the “produce there, don’t sell luxury there” pattern. Grade the <strong>mechanism</strong>, not the country name.
+</details>
+<hr>
+</section>
+<section id="gdp-versus-gni" class="level2">
+<h2 class="anchored" data-anchor-id="gdp-versus-gni">9. GDP versus GNI</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/qatar_gni.png" class="img-fluid figure-img"></p>
+<figcaption>Qatar GDP and GNI</figcaption>
+</figure>
+</div>
+<p>GNI = GDP + net primary income from abroad. In this World Bank vintage they are <strong>close</strong>; GNI is a bit lower. Remittances and foreign-owned energy profits are why the two can part. We still teach the definition when the gap is small.</p>
+<hr>
+<p>Homework 1 is on <strong>Canvas</strong>, due 9 September. Quiz 1 is <strong>Monday 31 August</strong>, in class. This Studio does not replace either.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
