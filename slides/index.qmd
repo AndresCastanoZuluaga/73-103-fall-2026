@@ -12,6 +12,7 @@ format:
 
 ## This term
 
-| Meeting | Topic | PDF |
-|---------|-------|-----|
+| Meeting | Topic | File |
+|---------|-------|------|
 | Mon 24 Aug | Introduction and motivation | [01_Intro_and_motivation.pdf](01_Intro_and_motivation.pdf) |
+| Wed 26 Aug | Measuring GDP (through what we covered in class) | [02_Measuring_GDP_Wed26_covered.pdf](02_Measuring_GDP_Wed26_covered.pdf) |
