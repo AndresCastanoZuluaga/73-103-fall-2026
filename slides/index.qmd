@@ -8,13 +8,11 @@ format:
     code-tools: false
 ---
 
-<p class="page-lead">I post a PDF of the slides <strong>after class</strong>, not before. Use the <a href="../notes/">notes</a> to prepare. If a PDF is not here yet, we have not finished that meeting. Submissions stay on Canvas.</p>
+<p class="page-lead">I post a PDF of the slides <strong>after class</strong>, not before. Files are by topic, not by date. Use the <a href="../notes/">notes</a> to prepare. If a topic has no PDF yet, we have not posted it. Submissions stay on Canvas.</p>
 
 ## This term
 
-| Meeting | Topic | File |
-|---------|-------|------|
-| Mon 24 Aug | Introduction and motivation | [01_Intro_and_motivation.pdf](01_Intro_and_motivation.pdf) |
-| Wed 26 Aug | Measuring GDP (first meeting) | [02_Measuring_GDP_Wed26_covered.pdf](02_Measuring_GDP_Wed26_covered.pdf) |
-| Wed 26 + Mon 31 Aug | Measuring GDP (full deck) | [02_Measuring_GDP_F26_V2.pdf](02_Measuring_GDP_F26_V2.pdf) |
-| Wed 2 Sep | Measuring the cost of living | [03_Measuring_Prices.pdf](03_Measuring_Prices.pdf) |
+| Topic | File |
+|-------|------|
+| Introduction | [01_Intro_and_motivation.pdf](01_Intro_and_motivation.pdf) |
+| Measuring GDP | [02_Measuring_GDP_F26_V2.pdf](02_Measuring_GDP_F26_V2.pdf) |
