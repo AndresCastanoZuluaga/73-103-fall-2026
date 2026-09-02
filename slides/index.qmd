@@ -15,4 +15,6 @@ format:
 | Meeting | Topic | File |
 |---------|-------|------|
 | Mon 24 Aug | Introduction and motivation | [01_Intro_and_motivation.pdf](01_Intro_and_motivation.pdf) |
-| Wed 26 Aug | Measuring GDP (through what we covered in class) | [02_Measuring_GDP_Wed26_covered.pdf](02_Measuring_GDP_Wed26_covered.pdf) |
+| Wed 26 Aug | Measuring GDP (first meeting) | [02_Measuring_GDP_Wed26_covered.pdf](02_Measuring_GDP_Wed26_covered.pdf) |
+| Wed 26 + Mon 31 Aug | Measuring GDP (full deck) | [02_Measuring_GDP_F26_V2.pdf](02_Measuring_GDP_F26_V2.pdf) |
+| Wed 2 Sep | Measuring the cost of living | [03_Measuring_Prices.pdf](03_Measuring_Prices.pdf) |
