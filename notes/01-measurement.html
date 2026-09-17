@@ -6,9 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Prof.&nbsp;Andrés Castaño Zuluaga">
 
-<title>Measuring Economic Activity – 73-103 Principles of Macroeconomics</title>
+<title>Measurement – 73-103 Principles of Macroeconomics</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -69,54 +68,11 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script>window.backupDefine = window.define; window.define = undefined;</script><script src="https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.js"></script>
-  <script>document.addEventListener("DOMContentLoaded", function () {
- var mathElements = document.getElementsByClassName("math");
- var macros = [];
- for (var i = 0; i < mathElements.length; i++) {
-  var texText = mathElements[i].firstChild;
-  if (mathElements[i].tagName == "SPAN") {
-   katex.render(texText.data, mathElements[i], {
-    displayMode: mathElements[i].classList.contains('display'),
-    throwOnError: false,
-    macros: macros,
-    fleqn: false
-   });
-}}});
-  </script>
-  <script>window.define = window.backupDefine; window.backupDefine = undefined;</script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css">
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="nav-fixed mlba-page quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -238,59 +194,22 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul class="collapse">
-  <li><a href="#why-measuring-economic-activity-matters" id="toc-why-measuring-economic-activity-matters" class="nav-link active" data-scroll-target="#why-measuring-economic-activity-matters">1. Why measuring economic activity matters</a></li>
-  <li><a href="#three-ways-to-measure-gdp" id="toc-three-ways-to-measure-gdp" class="nav-link" data-scroll-target="#three-ways-to-measure-gdp">2. Three ways to measure GDP</a>
-  <ul class="collapse">
-  <li><a href="#one-example-three-counts" id="toc-one-example-three-counts" class="nav-link" data-scroll-target="#one-example-three-counts">One example, three counts</a></li>
-  <li><a href="#what-statistical-offices-actually-compile" id="toc-what-statistical-offices-actually-compile" class="nav-link" data-scroll-target="#what-statistical-offices-actually-compile">What statistical offices actually compile</a></li>
-  </ul></li>
-  <li><a href="#measuring-gdp-with-the-expenditure-approach" id="toc-measuring-gdp-with-the-expenditure-approach" class="nav-link" data-scroll-target="#measuring-gdp-with-the-expenditure-approach">3. Measuring GDP with the expenditure approach</a>
-  <ul class="collapse">
-  <li><a href="#four-questions-easy-to-hard" id="toc-four-questions-easy-to-hard" class="nav-link" data-scroll-target="#four-questions-easy-to-hard">Four questions, easy to hard</a></li>
-  </ul></li>
-  <li><a href="#different-ways-to-compute-gdp-and-when-to-use-them" id="toc-different-ways-to-compute-gdp-and-when-to-use-them" class="nav-link" data-scroll-target="#different-ways-to-compute-gdp-and-when-to-use-them">4. Different ways to compute GDP, and when to use them</a>
-  <ul class="collapse">
-  <li><a href="#a-problem-first" id="toc-a-problem-first" class="nav-link" data-scroll-target="#a-problem-first">A problem first</a></li>
-  <li><a href="#nominal-gdp" id="toc-nominal-gdp" class="nav-link" data-scroll-target="#nominal-gdp">Nominal GDP</a></li>
-  <li><a href="#real-gdp" id="toc-real-gdp" class="nav-link" data-scroll-target="#real-gdp">Real GDP</a></li>
-  <li><a href="#ppp-adjusted-gdp" id="toc-ppp-adjusted-gdp" class="nav-link" data-scroll-target="#ppp-adjusted-gdp">PPP-adjusted GDP</a></li>
-  <li><a href="#when-to-use-which-number" id="toc-when-to-use-which-number" class="nav-link" data-scroll-target="#when-to-use-which-number">When to use which number</a></li>
-  </ul></li>
-  <li><a href="#how-to-measure-gdp-when-information-is-not-available" id="toc-how-to-measure-gdp-when-information-is-not-available" class="nav-link" data-scroll-target="#how-to-measure-gdp-when-information-is-not-available">5. How to measure GDP when information is not available</a>
-  <ul class="collapse">
-  <li><a href="#how-the-literature-does-it" id="toc-how-the-literature-does-it" class="nav-link" data-scroll-target="#how-the-literature-does-it">How the literature does it</a></li>
-  <li><a href="#an-application-china-19932013" id="toc-an-application-china-19932013" class="nav-link" data-scroll-target="#an-application-china-19932013">An application: China, 1993–2013</a></li>
-  <li><a href="#three-other-uses-of-satellite-data-in-economics" id="toc-three-other-uses-of-satellite-data-in-economics" class="nav-link" data-scroll-target="#three-other-uses-of-satellite-data-in-economics">Three other uses of satellite data in economics</a></li>
-  </ul></li>
-  <li><a href="#what-gdp-does-not-capture-and-what-it-still-tracks" id="toc-what-gdp-does-not-capture-and-what-it-still-tracks" class="nav-link" data-scroll-target="#what-gdp-does-not-capture-and-what-it-still-tracks">6. What GDP does not capture, and what it still tracks</a></li>
-  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
-  </ul>
-<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="01-measurement.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Measuring Economic Activity</h1>
-<p class="subtitle lead">73-103 Principles of Macroeconomics · Carnegie Mellon University in Qatar · Fall 2026</p>
+<h1 class="title">Measurement</h1>
+<p class="subtitle lead">24 Aug – 7 Sep · intro, GDP, prices, employment</p>
 </div>
 
 
 
 <div class="quarto-title-meta">
 
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>Prof.&nbsp;Andrés Castaño Zuluaga </p>
-          </div>
-  </div>
     
   
     
@@ -301,422 +220,53 @@ window.Quarto = {
 </header>
 
 
-<p><strong>Important note.</strong> These notes complement the assigned chapters and the slides from class. They do not replace them.</p>
-<hr>
-<section id="why-measuring-economic-activity-matters" class="level1">
-<h1>1. Why measuring economic activity matters</h1>
-<p>Households, firms, and policymakers decide how much to produce, consume, and invest, and they set interest rates, using past data, current data, and forecasts of macroeconomic variables. One of those variables is GDP: the market value of all final goods and services produced within a country in a given period, typically a year.</p>
-<p>Think of three agents in this region.</p>
-<p>A <strong>household</strong> deciding whether to buy a dwelling in Lusail wants to know whether incomes on the territory are rising in <em>volume</em>, not only in the cash value of last year’s cargo. A <strong>firm</strong> deciding whether to add a shift at Ras Laffan, or to open a second warehouse in Doha, wants the same distinction: more stuff, or the same stuff at a higher price. A <strong>policymaker</strong> at the Qatar Central Bank, or at the IMF when it writes an Article IV, needs a measure that can be compared across years and, with care, across countries.</p>
-<p>GDP measures <strong>production on the territory, in a period</strong>. Happiness and household wealth are different objects. Like any statistic, the number has flaws. These notes cover how it is built, which version to use for which decision, and what to do when the books are thin.</p>
-<hr>
-</section>
-<section id="three-ways-to-measure-gdp" class="level1">
-<h1>2. Three ways to measure GDP</h1>
-<section id="one-example-three-counts" class="level2">
-<h2 class="anchored" data-anchor-id="one-example-three-counts">One example, three counts</h2>
-<p>Consider a closed corner of Doha with two firms and no government.</p>
-<p><strong>Al-Maha Dairy</strong> sells milk to a karak stand for QR 30. It pays QR 18 in wages and keeps QR 12 as profit. It buys no intermediates.</p>
-<p><strong>The karak stand</strong> buys that milk (QR 30) and sells karak to households for QR 80. It pays QR 25 in wages and keeps QR 25 as profit.</p>
-<p><strong>Check.</strong> Write three numbers. Value added is sales minus intermediates.</p>
-<ol type="1">
-<li>Production: value added at the dairy plus value added at the stand.</li>
-<li>Income: wages plus profits at both firms.</li>
-<li>Expenditure: what households bought.</li>
-</ol>
-<p>Do the three numbers match?</p>
-<details>
-<summary>
-After you have three numbers
-</summary>
-<p>Production: dairy <span class="math inline">30-0=30</span>, stand <span class="math inline">80-30=50</span>, total <span class="math inline">80</span>. Income: wages <span class="math inline">18+25=43</span>, profits <span class="math inline">12+25=37</span>, total <span class="math inline">80</span>. Expenditure: households bought QR 80 of karak, so <span class="math inline">C=80</span>. The three numbers match.</p>
-</details>
-<p>They match because anything that is produced is sold (or added to inventories, which we treat as a sale to the firm itself). The riyal that pays for it is someone’s income. So three stories add to the same total:</p>
-<ol type="1">
-<li><strong>Production</strong> (value added): what each producer adds, after subtracting the intermediates it bought.</li>
-<li><strong>Income</strong>: wages, profits, and the other claims on that value added.</li>
-<li><strong>Expenditure</strong>: who bought the final goods and services: households, firms building capital, government, and the rest of the world.</li>
-</ol>
-<p>Figure 1 is that loop. Production generates income; income is spent; spending buys the output. If one side of the loop is larger than another, we have miscounted.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="img/flow_general.png" class="img-fluid figure-img" style="width:82.0%"></p>
-<figcaption>Spending, income, and production are the same <span class="math inline">Y</span>.</figcaption>
-</figure>
-</div>
-<p><strong>Production</strong>, written as a table. Value added is sales minus intermediates.</p>
-<table class="caption-top table">
-<thead>
-<tr class="header">
-<th>Firm</th>
-<th style="text-align: right;">Sales</th>
-<th style="text-align: right;">Intermediates</th>
-<th style="text-align: right;">Value added</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Al-Maha Dairy</td>
-<td style="text-align: right;">30</td>
-<td style="text-align: right;">0</td>
-<td style="text-align: right;">30</td>
-</tr>
-<tr class="even">
-<td>Karak stand</td>
-<td style="text-align: right;">80</td>
-<td style="text-align: right;">30</td>
-<td style="text-align: right;">50</td>
-</tr>
-<tr class="odd">
-<td><strong>GDP</strong></td>
-<td style="text-align: right;"></td>
-<td style="text-align: right;"></td>
-<td style="text-align: right;"><strong>80</strong></td>
-</tr>
-</tbody>
-</table>
-<p>If you add the invoices (30 + 80 = 110) you have counted the milk twice. GDP is the <strong>50 the stand added</strong> plus the <strong>30 the dairy added</strong>, not the sum of every bill.</p>
-<p><strong>Income.</strong> Wages <span class="math inline">18+25=43</span>. Profits <span class="math inline">12+25=37</span>. Income GDP <span class="math inline">=43+37=80</span>.</p>
-<p><strong>Expenditure.</strong> Households bought QR 80 of karak. There is no investment, no government, no trade. Expenditure GDP <span class="math inline">=C=80</span>.</p>
-<p>The three approaches give the same number because they are an identity.</p>
-<p>If the stand had also imported QR 8 of cups, its value added would fall to <span class="math inline">80-30-8=42</span>, production GDP would be <span class="math inline">30+42=72</span>, and expenditure would be <span class="math inline">C=80</span> minus <span class="math inline">IM=8</span>, so <span class="math inline">Y=72</span>. Imports are someone else’s production.</p>
-</section>
-<section id="what-statistical-offices-actually-compile" class="level2">
-<h2 class="anchored" data-anchor-id="what-statistical-offices-actually-compile">What statistical offices actually compile</h2>
-<p>Textbooks treat the three approaches as equals. Statistical offices do not.</p>
-<p>GDP is, first, a <strong>production</strong> concept (System of National Accounts 2008; Eurostat’s national-accounts manuals). Most statistical agencies start from industries: output minus intermediate consumption, plus taxes on products minus subsidies. Establishment surveys, VAT records, and industrial censuses exist even in middle-income countries. The United Nations’ first milestone for implementing the SNA is GDP from the <strong>production</strong> and <strong>expenditure</strong> sides, by industry, not a full income account.</p>
-<p>The <strong>expenditure</strong> side is what you will use in this course, because it names the agents: <span class="math inline">C</span>, <span class="math inline">I</span>, <span class="math inline">G</span>, <span class="math inline">NX</span>. It is also the side a firm can map onto a demand forecast. The weakness is the data. Household consumption surveys are slow. Inventories are noisy. Imports have to be stripped out of <span class="math inline">C</span>, <span class="math inline">I</span>, and <span class="math inline">G</span> so that foreign factories are not counted as ours.</p>
-<p>The <strong>income</strong> side (compensation of employees, gross operating surplus, taxes on production) is often the residual. In many countries profits are whatever is left after production GDP is taken as given. That is useful for asking how the pie is split. It is a weak independent check.</p>
-<p>The United States is the well-known exception: the Bureau of Economic Analysis builds the headline accounts from the <strong>expenditure</strong> side and reconciles production and income to it (Landefeld, Seskin, and Fraumeni 2008). The UK’s ONS and most OECD compilers still treat production as the main series and expenditure as the demand decomposition (Lequiller and Blades, OECD).</p>
-<p>When the three disagree, statistical offices record a <strong>statistical discrepancy</strong>. That gap is not a fourth kind of GDP. We will use expenditure for the rest of these notes, because that is how you will classify a transaction and how you will read a national-accounts release.</p>
-<hr>
-</section>
-</section>
-<section id="measuring-gdp-with-the-expenditure-approach" class="level1">
-<h1>3. Measuring GDP with the expenditure approach</h1>
-<p>Expenditure GDP asks who bought the final goods and services produced on this territory in this period. Keep five cells: <span class="math inline">\Delta C</span>, <span class="math inline">\Delta I</span>, <span class="math inline">\Delta G</span>, <span class="math inline">\Delta NX</span>, <span class="math inline">\Delta Y</span>. Zeros are allowed.</p>
-<p><strong>Check.</strong> For each line, fill the five cells. Do not write an identity yet. Just classify.</p>
-<ol type="1">
-<li>A used car sold by one resident of Doha to another.</li>
-<li>An unemployment benefit (a transfer).</li>
-<li>Household saving: money left in the bank, not spent on a new good.</li>
-<li>A visitor from London pays QR 400 for dinner at Souq Waqif. Treat the meal as produced here.</li>
-</ol>
-<details>
-<summary>
-After you have five cells for each
-</summary>
-<ol type="1">
-<li>All zeros. A used car between two residents is not new production, so it is not <span class="math inline">C</span>.</li>
-<li>All zeros. A transfer is not <span class="math inline">G</span>.</li>
-<li>All zeros. Saving is not <span class="math inline">I</span>.</li>
-<li><span class="math inline">\Delta C=0</span>, <span class="math inline">\Delta NX=+400</span>, <span class="math inline">\Delta Y=+400</span>. A non-resident buying a service produced here is an export.</li>
-</ol>
-</details>
-<p>Those cells have to add up. That is the expenditure identity:</p>
-<p><span class="math display">
-Y \equiv C + I + G + NX, \qquad NX = X - IM.
-</span></p>
+<p>Intro on Monday 24 August, then GDP, the cycle and PPP, prices, and employment. Goods starts Wednesday 9 September.</p>
+<p>Slides are posted <strong>after</strong> class on the <a href="../slides/index.html">Slides</a> page. <strong>Handout 1</strong> complements the readings; it does not replace them. <a href="../homework/hw1.html">HW1</a> dates: out Wed 26 Aug, due <strong>Wed 9 Sep</strong> on Canvas.</p>
 <table class="caption-top table">
 <colgroup>
-<col style="width: 28%">
-<col style="width: 42%">
-<col style="width: 28%">
+<col style="width: 26%">
+<col style="width: 30%">
+<col style="width: 43%">
 </colgroup>
 <thead>
 <tr class="header">
-<th>Symbol</th>
-<th>What it is</th>
-<th>Agent</th>
+<th>Date</th>
+<th>Topic</th>
+<th>Readings</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><span class="math inline">C</span></td>
-<td>Household consumption of <strong>new</strong> goods and services</td>
-<td>Households</td>
+<td><strong>Mon 24 Aug</strong></td>
+<td>Introduction and syllabus</td>
+<td>Syllabus; Blanchard 9e Ch. 1 (chapter only)</td>
 </tr>
 <tr class="even">
-<td><span class="math inline">I</span></td>
-<td>Gross investment: plant, equipment, dwellings, and the change in inventories</td>
-<td>Firms (and households, for new housing)</td>
+<td><strong>Wed 26 Aug</strong></td>
+<td>Measuring GDP</td>
+<td>CORE 3.1–3.4; Handout 1 (complement)</td>
 </tr>
 <tr class="odd">
-<td><span class="math inline">G</span></td>
-<td>Government <strong>purchases</strong> of goods and services, not transfers</td>
-<td>Government as a buyer</td>
+<td><strong>Mon 31 Aug</strong></td>
+<td>Business cycle, GDP variants and limitations, inflation intro</td>
+<td>CORE 3.5; Blanchard 10 pp.&nbsp;201–203; CORE 4.1–4.2. <strong>Quiz 1</strong></td>
 </tr>
 <tr class="even">
-<td><span class="math inline">X</span></td>
-<td>Foreign spending on goods and services produced here</td>
-<td>Rest of the world</td>
+<td><strong>Wed 2 Sep</strong></td>
+<td>Measuring the cost of living</td>
+<td>CORE 4.2–4.4</td>
 </tr>
 <tr class="odd">
-<td><span class="math inline">IM</span></td>
-<td>Spending, by anyone, on foreign output</td>
-<td>Rest of the world (with a minus)</td>
+<td><strong>Mon 7 Sep</strong></td>
+<td>Labor markets</td>
+<td>CORE 1.3–1.4; Blanchard Ch. 7 pp.&nbsp;135–140</td>
 </tr>
 </tbody>
 </table>
-<p><span class="math inline">C</span> is not “everything households do.” Imports already sit inside <span class="math inline">C</span>, <span class="math inline">I</span>, and <span class="math inline">G</span> as they are recorded in the shops. Subtracting <span class="math inline">IM</span> stops us counting a Korean factory as Qatar’s GDP. A useful habit: write a five-cell T-account <span class="math inline">(\Delta C,\ \Delta I,\ \Delta G,\ \Delta NX,\ \Delta Y)</span> and force</p>
-<p><span class="math display">
-\Delta C + \Delta I + \Delta G + \Delta NX = \Delta Y.
-</span></p>
-<p>Leave the zeros in. They tell you which components did not move.</p>
-<section id="four-questions-easy-to-hard" class="level2">
-<h2 class="anchored" data-anchor-id="four-questions-easy-to-hard">Four questions, easy to hard</h2>
-<p>Write the five cells. Then check the identity.</p>
-<p><strong>(a)</strong> A household in Al Khor buys QR 120 of dates grown and packed in Qatar this year. No imported inputs.</p>
-<p><strong>(b)</strong> A visitor from London pays QR 400 for dinner at Souq Waqif. Treat the meal as produced here.</p>
-<p><strong>(c)</strong> A Doha household buys an iPhone for QR 4,000. The import cost is QR 3,500. The local retailer’s margin is QR 500.</p>
-<p><strong>(d)</strong> QatarEnergy installs modules on the North Field. The modules cost QR 800 and were built in Korea. Installation in Qatar costs QR 50. What happens to <span class="math inline">I</span>, <span class="math inline">NX</span>, and <span class="math inline">Y</span>?</p>
-<details>
-<summary>
-After you have five numbers for each
-</summary>
-<ol type="a">
-<li><p><span class="math inline">\Delta C=+120</span>, <span class="math inline">\Delta Y=+120</span>.</p></li>
-<li><p><span class="math inline">\Delta C=0</span>, <span class="math inline">\Delta NX=+400</span>, <span class="math inline">\Delta Y=+400</span>. A non-resident buying a service produced here is an export.</p></li>
-<li><p><span class="math inline">\Delta C=+4{,}000</span>, <span class="math inline">\Delta NX=-3{,}500</span>, <span class="math inline">\Delta Y=+500</span>. Check: <span class="math inline">4{,}000-3{,}500=500</span>. A tourist buying the same phone would be <span class="math inline">X</span> of the retail service, not <span class="math inline">C</span>.</p></li>
-<li><p><span class="math inline">\Delta I=+850</span>, <span class="math inline">\Delta NX=-800</span>, <span class="math inline">\Delta Y=+50</span>. The Korean factory is Korea’s GDP. Only installation is produced here.</p></li>
-</ol>
-</details>
-<p>GDP on this territory is the <strong>domestic value added</strong>, not the sticker price and not the nationality of the shareholder. Ownership of QatarEnergy does not move the border.</p>
-<hr>
-</section>
-</section>
-<section id="different-ways-to-compute-gdp-and-when-to-use-them" class="level1">
-<h1>4. Different ways to compute GDP, and when to use them</h1>
-<section id="a-problem-first" class="level2">
-<h2 class="anchored" data-anchor-id="a-problem-first">A problem first</h2>
-<p>You are the credit officer at a Gulf bank. Head office sent two slides on Qatar.</p>
-<p>Slide A: <strong>dollar GDP</strong> went from about <strong>$180 billion in 2021 to $236 billion in 2022, then back to $213 billion in 2023</strong>. A colleague wants to cut the corporate book: “the economy shrank.”</p>
-<p>Slide B: <strong>real GDP</strong> (volume) <strong>rose</strong> through the same window.</p>
-<p>Separately, the bank is choosing where to put a back-office that will pay local wages. One option is Doha. The other is a large South Asian city. Market-dollar GDP per person makes Qatar look roughly <strong>thirty times</strong> richer than India. The facilities team says that cannot be what a local salary actually buys.</p>
-<p><strong>Check.</strong> Write one line for each. Use the names nominal, real, or PPP.</p>
-<ol type="1">
-<li>Did Qatar’s economy shrink in 2022–23? Which slide, and which measure?</li>
-<li>What a local wage will buy in Doha vs Mumbai: which measure?</li>
-<li>How many dollars the bank must send this quarter to pay a contractor at the desk: which measure?</li>
-</ol>
-<details>
-<summary>
-After you have a line for each
-</summary>
-<ol type="1">
-<li>Slide B, real GDP. Slide A is a dollar total that moved with LNG prices.</li>
-<li>PPP.</li>
-<li>The market rate (nominal dollars this quarter).</li>
-</ol>
-</details>
-<p>You cannot answer with one number. You need three, and you need to know which question each one answers. We will keep this credit-committee problem as the running case.</p>
-</section>
-<section id="nominal-gdp" class="level2">
-<h2 class="anchored" data-anchor-id="nominal-gdp">Nominal GDP</h2>
-<p>Nominal GDP values current production at <strong>current prices</strong>:</p>
-<p><span class="math display">
-\text{Nominal GDP}_t = \sum_i P_{i,t}\, Q_{i,t}.
-</span></p>
-<p>If either prices or quantities rise, the product can rise. Qatar’s dollar GDP in 2022 is a price story as much as a quantity story: LNG prices moved. A minister who quotes only the dollar total is mixing a price shock into a quantity story.</p>
-</section>
-<section id="real-gdp" class="level2">
-<h2 class="anchored" data-anchor-id="real-gdp">Real GDP</h2>
-<p>Real GDP holds prices at a <strong>base year</strong> <span class="math inline">b</span> and lets only quantities change:</p>
-<p><span class="math display">
-\text{Real GDP}_t = \sum_i P_{i,b}\, Q_{i,t}.
-</span></p>
-<p>The GDP deflator is the ratio of the two:</p>
-<p><span class="math display">
-\text{GDP deflator}_t = \frac{\text{Nominal GDP}_t}{\text{Real GDP}_t}\times 100,
-\qquad
-\pi_t = \frac{\text{deflator}_t - \text{deflator}_{t-1}}{\text{deflator}_{t-1}}.
-</span></p>
-<p>In the base year the deflator is 100 by construction.</p>
-<p>Apply this to the bank. Between 2021 and 2023, Qatar’s <strong>nominal</strong> GDP in dollars swung with energy prices. <strong>Real</strong> GDP, the volume of production, did not. The colleague who wants to cut the book on the basis of Slide A is reading a price. Hiring, capacity, and whether the economy produced more stuff are Slide B.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="img/qatar_nominal_real.png" class="img-fluid figure-img" style="width:88.0%"></p>
-<figcaption>Dollar GDP is not the volume of the economy. 2015 = 100.</figcaption>
-</figure>
-</div>
-<p>The same mechanism showed up in 2014–16, when dollar GDP fell while real growth stayed positive. If nominal GDP rose, it could be <span class="math inline">Q\uparrow</span> with <span class="math inline">P</span> still, <span class="math inline">P\uparrow</span> with <span class="math inline">Q</span> still, both, or <span class="math inline">P\uparrow</span> faster than <span class="math inline">Q\downarrow</span>. Qatar 2022–23 is the case the list often omits: <strong><span class="math inline">Q</span> up, <span class="math inline">P</span> down</strong> in dollar terms.</p>
-</section>
-<section id="ppp-adjusted-gdp" class="level2">
-<h2 class="anchored" data-anchor-id="ppp-adjusted-gdp">PPP-adjusted GDP</h2>
-<p>A riyal buys a different basket in Doha than the same dollar, converted at the market rate, buys in Mumbai. Purchasing-power parity converts with the <strong>price of a comparable basket</strong>, not with the FX desk.</p>
-<p><span class="math display">
-\text{PPP GDP} = \frac{\text{Nominal GDP in local currency}}{\text{PPP price level relative to the reference country}}.
-</span></p>
-<p>Equivalently, if a basket that costs <span class="math inline">\$100</span> in the US costs <span class="math inline">150</span> units of local currency, the PPP rate is <span class="math inline">1.5</span> local units per dollar, which need not equal the market rate.</p>
-<p>In 2024, GDP per person at <strong>market dollars</strong> was about <strong>$76,000</strong> in Qatar and <strong>$2,600</strong> in India, so Qatar looks about <strong>29 times</strong> richer. At <strong>PPP</strong>, about <strong>$111,000</strong> versus <strong>$9,400</strong>, closer to <strong>12 times</strong>. India is not as poor, and Qatar is not as far ahead, once you let prices differ.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="img/qatar_india_ratio_2024.png" class="img-fluid figure-img" style="width:78.0%"></p>
-<figcaption>The gap shrinks when the conversion uses a basket, not only the exchange rate.</figcaption>
-</figure>
-</div>
-<p>For the back-office: if the question is <strong>what a local wage will buy in the city where staff live</strong>, use PPP. If the question is <strong>how many dollars the bank must send this quarter to pay a contractor at the desk</strong>, use the market rate. Those are different questions.</p>
-</section>
-<section id="when-to-use-which-number" class="level2">
-<h2 class="anchored" data-anchor-id="when-to-use-which-number">When to use which number</h2>
-<p>CORE is right: you do not have “the” GDP. You have a family of numbers, and the business question picks which member to use.</p>
-<p>The table below is the credit-committee version of that advice. Read it as a recommendation for which number to pull, given the question.</p>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 15%">
-<col style="width: 50%">
-<col style="width: 35%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>Measure</th>
-<th>Use it when the question is…</th>
-<th>In the bank example</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><strong>Nominal GDP</strong></td>
-<td>Cash this year: invoices, tax, the dollar value of a cargo</td>
-<td>The 2022 LNG price spike. Do not hire on this number alone.</td>
-</tr>
-<tr class="even">
-<td><strong>Real GDP</strong></td>
-<td>Whether the economy produced <strong>more stuff</strong> over time; hiring; capacity</td>
-<td>Slide B. Volume rose while dollar GDP fell. That is the cycle you underwrite.</td>
-</tr>
-<tr class="odd">
-<td><strong>PPP GDP (and PPP per person)</strong></td>
-<td>Living standards and <strong>local costs</strong> across countries</td>
-<td>The back-office. What a salary buys in Doha vs Mumbai, not the FX print.</td>
-</tr>
-</tbody>
-</table>
-<p>Nominal GDP is the right input for anything that is actually paid in current riyals or dollars. Real GDP is the right input for “did activity rise.” PPP is the right input for “where does a unit of income go further.” Mixing them is how Slide A and the facilities team talk past each other.</p>
-<hr>
-</section>
-</section>
-<section id="how-to-measure-gdp-when-information-is-not-available" class="level1">
-<h1>5. How to measure GDP when information is not available</h1>
-<p><strong>Check.</strong> A firm is deciding whether to expand in a market whose <strong>official</strong> growth looks strong and whose <strong>lights</strong> at night are flat. Night lights are not in the national accounts.</p>
-<p>Write two sentences.</p>
-<ol type="1">
-<li>Are the lights GDP?</li>
-<li>Give one reason the two series can disagree.</li>
-</ol>
-<details>
-<summary>
-After you have two sentences
-</summary>
-<p>Lights are a proxy for GDP, not GDP itself. They can disagree because of saturation in rich, dense cities; gas flares; a shift into services and software that do not show up as light; a war that knocks out the grid; or because the books are the object you do not trust.</p>
-</details>
-<p>Yao (2019), in the IMF’s <em>Finance &amp; Development</em> (the short piece assigned for Discussion 1), puts the problem in one picture: when statistical agencies are thin, or the books are hard to trust, the Earth still lights up at night. The question is when the proxy is informative, and when it misleads.</p>
-<section id="how-the-literature-does-it" class="level2">
-<h2 class="anchored" data-anchor-id="how-the-literature-does-it">How the literature does it</h2>
-<p>Satellites in the Defense Meteorological Satellite Program (DMSP, roughly 1992–2013) and then VIIRS / NASA Black Marble (from 2012) record the intensity of lights. Economists <strong>sum the lights over a country and a year</strong> and compare that sum to official real GDP.</p>
-<p>Henderson, Storeygard, and Weil (2012) write the measurement-error model. Lights growth is a noisy signal of true income growth; national accounts are another noisy signal; the two errors are assumed uncorrelated. For countries with weak statistical offices, the optimal estimate of growth puts substantial weight on lights. Their best-fit elasticity of measured <strong>GDP growth with respect to lights growth</strong> is about <strong>0.3</strong>:</p>
-<p><span class="math display">
-\widehat{g}_{Y} \approx 0.3 \times \% \Delta L.
-</span></p>
-<p>Hu and Yao (2022) estimate the other slope, the elasticity of <strong>lights with respect to true GDP</strong>, at about <strong>1.3</strong>:</p>
-<p><span class="math display">
-\% \Delta L \approx 1.3 \times g_{Y}^{\text{true}}
-\qquad\Rightarrow\qquad
-g_{Y}^{\text{true}} \approx \frac{\% \Delta L}{1.3}.
-</span></p>
-<p>They then form a composite</p>
-<p><span class="math display">
-g_{Y}^{\ast} = \rho\, g_{Y}^{\text{NA}} + (1-\rho)\, g_{Y}^{L},
-</span></p>
-<p>where <span class="math inline">g_{Y}^{\text{NA}}</span> is national-accounts growth, <span class="math inline">g_{Y}^{L}</span> is lights-implied growth, and <span class="math inline">\rho</span> is smaller when the statistical office is weaker. In their estimates the weight on lights ranges from <span class="math inline">0.14</span> to <span class="math inline">0.88</span>, with a mean around <span class="math inline">0.65</span>.</p>
-<p>Lights mislead when the relationship between activity and bulbs is not stable: <strong>saturation</strong> in rich, dense cities; <strong>gas flares</strong>; a shift into services and software that do not show up as light; a war that knocks out the grid. Yao’s Japan / Syria contrast is that point in one page.</p>
-</section>
-<section id="an-application-china-19932013" class="level2">
-<h2 class="anchored" data-anchor-id="an-application-china-19932013">An application: China, 1993–2013</h2>
-<p>Qatar is the wrong country if the question is “the books are thin.” The statistical office here is not weak. The paper behind the assigned F&amp;D article is a better laboratory.</p>
-<p>Hu and Yao (2022) take China over 1993–2013. Official real GDP growth in the national accounts sits well above the path implied by lights. Their composite says China’s <strong>true</strong> average annual growth in that window was on the order of <strong>3.6 percentage points below</strong> the official figure. India in the same paper also comes in below the books. For conflict-torn African countries, they find that lights-based growth is <strong>smoother</strong> than the official series: the books jump around more than the lights.</p>
-<p>That is the method in a country you already see in the news. Lights are not “the truth.” The claim is narrower: when the incentive to report a round number is strong and the statistical system is not independent, a second measure that the ministry does not control is worth putting on the same slide as the communiqué. Martinez (2022) makes the political-economy version of the same point: for a given increase in lights, more autocratic regimes report <strong>higher</strong> GDP growth, on the order of a factor <span class="math inline">1.15</span>–<span class="math inline">1.3</span> in the most authoritarian cases.</p>
-<p>Ask <em>why</em> the official series and the lights disagree: flares, saturation, a statistical office, or a real boom the satellite is missing. Then pick a weight. That weight is <span class="math inline">\rho</span> in the equation above.</p>
-</section>
-<section id="three-other-uses-of-satellite-data-in-economics" class="level2">
-<h2 class="anchored" data-anchor-id="three-other-uses-of-satellite-data-in-economics">Three other uses of satellite data in economics</h2>
-<p>Lights are one sensor. Economists have used others. Three papers show the range.</p>
-<p><strong>Poverty maps from daytime imagery.</strong> Jean, Burke, Xie, Davis, Lobell, and Ermon (2016, <em>Science</em>) train a model on daytime satellite images (roofs, roads, farmland) to predict village-level poverty in several African countries, in places where a household survey has not been in the field for years. The model <strong>fills the years and the districts the survey missed</strong>, cheaply enough that a ministry or an NGO can use it.</p>
-<p><strong>Cities, transport costs, and lights.</strong> Storeygard (2016, <em>Review of Economic Studies</em>) uses night lights as a measure of <strong>urban economic activity</strong> in sub-Saharan African cities, and oil prices as a shock to the cost of road transport. When oil is expensive, cities that are farther from the port grow more slowly in the lights. The paper is a test of a classical urban model in a setting where city GDP does not exist as an official series.</p>
-<p><strong>Who gets the public goods.</strong> Hodler and Raschky (2014, <em>Quarterly Journal of Economics</em>) look at night lights around the <strong>birthplaces of political leaders</strong>. Regions that produce the president light up relative to the rest of the country. That is a measure of regional favoritism that does not pass through the budget tables the ministry publishes.</p>
-<p>Donaldson and Storeygard (2016, <em>Journal of Economic Perspectives</em>) survey the wider set: crop yields, deforestation, pollution, fishing. The common idea is the same as Yao’s. When the variable you care about is not in the books, or the books are the object you do not trust, look at a sensor the agent you are studying does not control.</p>
-<hr>
-</section>
-</section>
-<section id="what-gdp-does-not-capture-and-what-it-still-tracks" class="level1">
-<h1>6. What GDP does not capture, and what it still tracks</h1>
-<p><strong>Check.</strong> A meal cooked at home is production. A meal at Souq Waqif is production.</p>
-<ol type="1">
-<li>Which meal is in GDP?</li>
-<li>Look at the three figures below. Each dot is a country. Qatar, the United States, China, India, and Kenya are marked. What do the scatters <strong>not</strong> show? Write one thing GDP leaves out.</li>
-</ol>
-<p>The three figures use the 2022 cross-section of countries (Our World in Data).</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="img/owid_life.png" class="img-fluid figure-img" style="width:88.0%"></p>
-<figcaption>Life expectancy rises with GDP per capita.</figcaption>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="img/owid_childmort.png" class="img-fluid figure-img" style="width:88.0%"></p>
-<figcaption>Child mortality falls as income rises.</figcaption>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="img/owid_electricity.png" class="img-fluid figure-img" style="width:88.0%"></p>
-<figcaption>Electricity access is nearly universal above a modest income level, and far from it below.</figcaption>
-</figure>
-</div>
-<details>
-<summary>
-After you have written both
-</summary>
-<ol type="1">
-<li>Only the meal at Souq Waqif. Home production is out of GDP.</li>
-<li>Any of: unpaid work, the informal sector, leisure, environment and depletion, inequality, quality and new goods, zero-price digital services. The scatters show that GDP per person moves with material living standards. They do not show that GDP is well-being.</li>
-</ol>
-</details>
-<p>GDP counts <strong>market</strong> production of <strong>final</strong> goods and services on the <strong>territory</strong> in a <strong>period</strong>. Drop a word and you are counting something else. That design leaves a list of omissions that CORE 3.5 walks through, and that the two assigned articles extend.</p>
-<ul>
-<li><strong>Home production and unpaid work.</strong> A meal cooked at home is production. It is not in GDP. A meal at Souq Waqif is. Cross-country comparisons of “how much is produced” are tilted toward economies where more activity passes through a market.</li>
-<li><strong>The informal sector.</strong> Street vendors, cash construction, unregistered workshops. Some countries try to impute them. Many undercount. A rebasing year in which the imputation is updated can look like a growth miracle (Nigeria 2014 is the usual exhibit).</li>
-<li><strong>Leisure.</strong> GDP does not rise when people work fewer hours and enjoy the evening. It can rise when they work more and are more tired.</li>
-<li><strong>Environment and depletion.</strong> Extracting gas raises <span class="math inline">Y</span>. The loss of the reserve and the carbon are not subtracted. Qatar’s accounts are not a sustainability statement.</li>
-<li><strong>Inequality.</strong> A rise in <span class="math inline">Y</span> that accrues to the top tail is still a rise in <span class="math inline">Y</span>. GDP per person is an average.</li>
-<li><strong>Quality and new goods.</strong> A smartphone that is twice as capable at the same price is a real increase in consumption. Price indices are slow to catch it.</li>
-<li><strong>Zero-price digital services.</strong> Google Maps, WhatsApp, open-source software. Wladawsky-Berger (2019) is the assigned WSJ piece: if the price is zero, expenditure GDP records zero, even if the service is valuable. GDP-B and related proposals try to put a number on that missing consumer surplus. They are not in the official accounts.</li>
-</ul>
-<p>GDP is still a useful readout of <strong>material living standards</strong>. It is an imperfect measure of quality of life, but it is <strong>highly correlated</strong> with many of the outcomes people actually care about. If you cannot observe life expectancy, child survival, or the grid in every district, GDP per person is a noisy but close proxy for the cluster of outcomes that move with income. That is why the course starts with GDP, and then asks what the number leaves out.</p>
-<hr>
-</section>
-<section id="references" class="level1">
-<h1>References</h1>
-<p>Bureau of Economic Analysis. <em>NIPA Handbook: Concepts and Methods of the U.S. National Income and Product Accounts</em>. U.S. Department of Commerce.</p>
-<p>CORE Econ. 2023. <em>The Economy 2.0: Macroeconomics</em>, Units 3 and 4. https://books.core-econ.org/</p>
-<p>Donaldson, Dave, and Adam Storeygard. 2016. “The View from Above: Applications of Satellite Data in Economics.” <em>Journal of Economic Perspectives</em> 30 (4): 171–198.</p>
-<p>Eurostat. <em>Building the System of National Accounts — Basic Concepts</em>. European Commission.</p>
-<p>Henderson, J. Vernon, Adam Storeygard, and David N. Weil. 2012. “Measuring Economic Growth from Outer Space.” <em>American Economic Review</em> 102 (2): 994–1028.</p>
-<p>Hodler, Roland, and Paul A. Raschky. 2014. “Regional Favoritism.” <em>Quarterly Journal of Economics</em> 129 (2): 995–1033.</p>
-<p>Hu, Yingyao, and Jiaxiong Yao. 2022. “Illuminating Economic Growth.” <em>Journal of Econometrics</em> 228 (2): 359–378.</p>
-<p>Jean, Neal, Marshall Burke, Michael Xie, W. Matthew Davis, David B. Lobell, and Stefano Ermon. 2016. “Combining Satellite Imagery and Machine Learning to Predict Poverty.” <em>Science</em> 353 (6301): 790–794.</p>
-<p>Landefeld, J. Steven, Eugene P. Seskin, and Barbara M. Fraumeni. 2008. “Taking the Pulse of the Economy: Measuring GDP.” <em>Journal of Economic Perspectives</em> 22 (2): 193–216.</p>
-<p>Lequiller, François, and Derek Blades. <em>Understanding National Accounts</em>. OECD Publishing.</p>
-<p>Martinez, Luis R. 2022. “How Much Should We Trust the Dictator’s GDP Growth Estimates?” <em>Journal of Political Economy</em> 130 (10): 2731–2769.</p>
-<p>Storeygard, Adam. 2016. “Farther on down the Road: Transport Costs, Trade and Urban Growth in Sub-Saharan Africa.” <em>Review of Economic Studies</em> 83 (3): 1263–1295.</p>
-<p>United Nations, European Commission, IMF, OECD, and World Bank. 2008. <em>System of National Accounts 2008</em>.</p>
-<p>Wladawsky-Berger, Irving. 2019. “When GDP Won’t Do: A New Method For Measuring Digital’s Value.” <em>Wall Street Journal</em>, 24 May.</p>
-<p>World Bank. World Development Indicators; Space2Stats Black Marble nighttime lights.</p>
-<p>Yao, Jiaxiong. 2019. “Illuminating Economic Growth.” <em>Finance &amp; Development</em> (IMF), September.</p>
+<p>You do not need, in this block: Mankiw Ch. 10 or 11 as required; CORE 4.5–4.9; CORE 1.1–1.2 or 1.5–1.8; Blanchard 7 after p.&nbsp;140; Mankiw Ch. 12 (growth comes later).</p>
+<p>Next: <a href="../notes/02-goods.html">Goods market</a>. Calendar: <a href="../schedule.html">Schedule</a>.</p>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
