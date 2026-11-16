@@ -19,3 +19,4 @@ format:
 | Measuring prices | [03_Measuring_Prices_F26_V2.pdf](03_Measuring_Prices_F26_V2.pdf) |
 | Labor markets | [04_Labor_Markets_F26_V2.pdf](04_Labor_Markets_F26_V2.pdf) |
 | Financial markets | [06_Financial_Markets_F26.pdf](06_Financial_Markets_F26.pdf) |
+| Production and growth | [08_Production_and_Growth_F26_partially_covered_1-17.pdf](08_Production_and_Growth_F26_partially_covered_1-17.pdf) |
