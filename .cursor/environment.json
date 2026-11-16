@@ -1,0 +1,12 @@
+{
+  "name": "73-103 Macroeconomics (Quarto site)",
+  "user": "ubuntu",
+  "install": "bash .cursor/install.sh",
+  "terminals": [
+    {
+      "name": "quarto-preview",
+      "command": "quarto preview --port 4200 --host 0.0.0.0 --no-browser"
+    }
+  ],
+  "ports": [4200]
+}
