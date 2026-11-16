@@ -16,3 +16,6 @@ format:
 |-------|------|
 | Introduction | [01_Intro_and_motivation.pdf](01_Intro_and_motivation.pdf) |
 | Measuring GDP | [02_Measuring_GDP_F26_V2.pdf](02_Measuring_GDP_F26_V2.pdf) |
+| Measuring prices | [03_Measuring_Prices_F26_V2.pdf](03_Measuring_Prices_F26_V2.pdf) |
+| Labor markets | [04_Labor_Markets_F26_V2.pdf](04_Labor_Markets_F26_V2.pdf) |
+| Financial markets | [06_Financial_Markets_F26.pdf](06_Financial_Markets_F26.pdf) |

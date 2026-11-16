@@ -151,7 +151,7 @@ Below is a tentative class schedule. Since class discussions can sometimes run l
 |-----|------|-------|----------|-----|
 | Mon | 24 Aug | Introduction and syllabus | Blanchard 9e Ch. 1 (chapter only) | Discussion article (not graded) |
 | Wed | 26 Aug | Measuring GDP | CORE 3.1–3.4; Handout 1 | HW1 out |
-| Mon | 31 Aug | Business Cycle, GDP variants, and limitations, inflation intro | CORE 3.5; Blanchard 10 pp. 201–203; CORE 4.1–4.2 | Quiz 1, Discussion article (Canvas) |
+| Mon | 31 Aug | Business Cycle, GDP variants, and limitations, inflation intro | CORE 3.5; Blanchard 10 pp. 201–203; CORE 4.1–4.2 | Quiz 1 (end of class), Discussion article (Canvas) |
 | Wed | 2 Sep | Measuring the cost of living | CORE 4.2–4.4 | |
 | Mon | 7 Sep | Labor markets | CORE 1.3–1.4; Blanchard Ch 7 pp. 135–140 | Discussion article (Canvas) |
 | Wed | 9 Sep | Short-term equilibrium: goods market | Blanchard Ch 3; goods dashboard; Handout 2 | HW1 due; sim packet out |

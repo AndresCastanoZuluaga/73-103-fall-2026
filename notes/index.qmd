@@ -1,6 +1,6 @@
 ---
 title: "Notes"
-subtitle: "Readings by unit · 73-103 Fall 2026"
+subtitle: "73-103 Fall 2026"
 format:
   html:
     toc: true
@@ -8,7 +8,7 @@ format:
     code-tools: false
 ---
 
-Each unit lists meetings and assigned readings. Slides are posted **after** class on the [Slides](../slides/index.qmd) page. Handouts complement the main readings; they do not replace them.
+Notes by unit. They complement the assigned chapters; they do not replace them. Slides go up **after** class. Weekly articles and anything you turn in stay on **Canvas**.
 
 Weekly articles, discussions, and anything you must turn in are on **Canvas**.
 

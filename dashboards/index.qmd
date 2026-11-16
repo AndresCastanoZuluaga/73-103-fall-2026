@@ -10,8 +10,10 @@ format:
 
 These are extras. Use them when the unit opens. They are not homework unless Canvas says so.
 
+**National accounts studio** (from Wednesday 26 August, after class): [gdp-lab.html](gdp-lab.html) — identities and the first behavioral functions, circular flow, classification, Qatar prints, nominal/real, PPP and GNI, a problem set at exam grain, and cases (Ireland, Venezuela, Nigeria, Japan, India). Not a submission and not Monday’s quiz.
+
 **Goods market** (from Wednesday 9 September): [is-model-dashboard.streamlit.app](https://is-model-dashboard.streamlit.app)
 
-**IS–LM** (from Monday 5 October): [islmdash-upcnxhgk.manus.space](https://islmdash-upcnxhgk.manus.space)
+**IS–LM** (from Monday 5 October): [islm-dashboard-73103.vercel.app](https://islm-dashboard-73103.vercel.app)
 
 Calendar: [Schedule](../schedule.qmd).

@@ -6,3 +6,7 @@ _site/
 /.quarto/
 
 **/*.quarto_ipynb
+
+_archive/
+**/_archive/
+*.bak-*

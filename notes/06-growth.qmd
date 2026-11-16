@@ -1,6 +1,6 @@
 ---
 title: "Growth"
-subtitle: "4, 9, and 16 Nov"
+subtitle: "4, 9, 16, and 18 Nov"
 format:
   html:
     toc: true
@@ -16,8 +16,9 @@ Production functions and growth accounting.
 | **Mon 9 Nov** | Productivity and economic growth | Notes; Mankiw Ch. 12. **Quiz 5** |
 | **Wed 11 Nov** | No class | — |
 | **Thu 12 Nov** | Community Engagement — no class | — |
-| **Mon 16 Nov** | Productivity and economic growth (applied / R) | Notes; Handout 4 + R (complement). **Quiz 6** |
+| **Mon 16 Nov** | Productivity and economic growth (applied / R) | Notes; [Handout 4](https://canvas.cmu.edu/courses/53957/pages/growth-accounting-decomposition) + R (complement) |
+| **Wed 18 Nov** | Productivity and economic growth | Notes; [Handout 4](https://canvas.cmu.edu/courses/53957/pages/growth-accounting-decomposition); Mankiw Ch. 12. **Quiz 6** |
 
-Handout 4 and the R starter on Canvas complement the notes and Mankiw 12; they do not replace them. You do not need CORE Unit 9 or Mankiw 13.
+[Handout 4](https://canvas.cmu.edu/courses/53957/pages/growth-accounting-decomposition) and the R starter on Canvas complement the notes and Mankiw 12; they do not replace them. You do not need CORE Unit 9 or Mankiw 13.
 
 Next: [Open economy](07-open-economy.qmd). Calendar: [Schedule](../schedule.qmd).
